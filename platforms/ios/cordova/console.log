@@ -154,3 +154,24 @@ Terminating in response to SpringBoard's termination.
 2014-07-10 16:34:44.574 HelloCordova[31073:70b] []
 2014-07-10 16:34:47.624 HelloCordova[31073:70b] [{"id":0,"name":"Scruff McGruff","email":"smcgruff@gmail.com","phone":"512-574-8333","$$hashKey":"00I","selected":true},{"id":1,"name":"G.I. Joe","$$hashKey":"00J","selected":true}]
 2014-07-10 16:34:55.231 HelloCordova[31073:70b] []
+2014-07-10 16:41:04.407 HelloCordova[31421:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-10 16:41:04.441 HelloCordova[31421:70b] Unlimited access to network resources
+2014-07-10 16:41:04.536 HelloCordova[31421:70b] [CDVTimer][keyboard] 0.299037ms
+2014-07-10 16:41:04.542 HelloCordova[31421:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-10 16:41:04.545 HelloCordova[31421:70b] [CDVTimer][statusbar] 2.270997ms
+2014-07-10 16:41:04.546 HelloCordova[31421:70b] [CDVTimer][TotalPluginStartup] 10.102987ms
+2014-07-10 16:41:05.127 HelloCordova[31421:70b] Resetting plugins due to page load.
+2014-07-10 16:41:05.709 HelloCordova[31421:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9F5A1F41-A4E2-4E48-B1DF-C93EF562575E/HelloCordova.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-10 16:42:26.616 HelloCordova[31758:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-10 16:42:26.650 HelloCordova[31758:70b] Unlimited access to network resources
+2014-07-10 16:42:26.732 HelloCordova[31758:70b] [CDVTimer][keyboard] 0.294983ms
+2014-07-10 16:42:26.734 HelloCordova[31758:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-10 16:42:26.735 HelloCordova[31758:70b] [CDVTimer][statusbar] 1.713991ms
+2014-07-10 16:42:26.737 HelloCordova[31758:70b] [CDVTimer][TotalPluginStartup] 5.264997ms
+2014-07-10 16:42:27.165 HelloCordova[31758:70b] Resetting plugins due to page load.
+2014-07-10 16:42:27.890 HelloCordova[31758:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9F5A1F41-A4E2-4E48-B1DF-C93EF562575E/HelloCordova.app/www/index.html#/tab/alert
+2014-07-10 16:42:30.702 HelloCordova[31758:70b] []
+2014-07-10 16:42:33.660 HelloCordova[31758:70b] [{"id":0,"name":"Scruff McGruff","email":"smcgruff@gmail.com","phone":"512-574-8333","$$hashKey":"00I","selected":true}]
+2014-07-10 16:42:36.855 HelloCordova[31758:70b] 512-574-8333
+2014-07-10 16:42:41.671 HelloCordova[31758:70b] 512-574-8333
