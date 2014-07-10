@@ -8,7 +8,7 @@ angular.module('d1.services', [])
 
   // Some fake testing data
   var contacts = [
-    { id: 0, name: 'Scruff McGruff' },
+    { id: 0, name: 'Scruff McGruff', email: 'smcgruff@gmail.com', phone: '512-574-8333' },
     { id: 1, name: 'G.I. Joe' },
     { id: 2, name: 'Miss Frizzle' },
     { id: 3, name: 'Ash Ketchum' }
