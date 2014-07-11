@@ -1,6 +1,6 @@
 angular.module('d1.controllers', [])
 
-.controller('AlertCtrl', function($scope, Contacts) {
+.controller('AlertCtrl', function($scope, Contacts, $ionicPopup) {
   $scope.contacts = Contacts.all();
   $scope.getSelected = function() {$scope.selected = Contacts.all().filter(function(x){ return x.selected; });}
   $scope.logSelected = function() {
@@ -14,21 +14,19 @@ angular.module('d1.controllers', [])
     }
   };
   $scope.sendEmail = function(){
-    var sendgrid  = require('sendgrid')('app17775731@heroku.com', 'wcrb4cf8');
     $scope.getSelected();
     for(var i = 0; i < $scope.selected.length; i++){
-      console.log('hi');
-      sendgrid.send({
-        to:       $scope.selected[i].email,
-        from:     'app17775731@heroku.com',
-        subject:  'Emergency! I need your help',
-        text:     'My first email through SendGrid.'
-      }, function(err, json) {
-        if (err) { return console.error(err); }
-        console.log(json);
-      });
       console.log($scope.selected[i].email);
     }
+  };
+  $scope.showAlert = function() {
+    var alertPopup = $ionicPopup.alert({
+      title: 'Don\'t eat that!',
+      template: 'It might taste good'
+    });
+    alertPopup.then(function(res) {
+     console.log('Thank you for not eating my delicious ice cream cone');
+    });
   };
 })
 
