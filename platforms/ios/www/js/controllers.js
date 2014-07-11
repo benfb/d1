@@ -1,6 +1,6 @@
 angular.module('d1.controllers', [])
 
-.controller('AlertCtrl', function($scope, Contacts, $ionicPopup) {
+.controller('AlertCtrl', function($scope, Contacts, $ionicPopup, $http) {
   $scope.contacts = Contacts.all();
   $scope.getSelected = function() {$scope.selected = Contacts.all().filter(function(x){ return x.selected; });}
   $scope.logSelected = function() {
@@ -18,6 +18,7 @@ angular.module('d1.controllers', [])
     for(var i = 0; i < $scope.selected.length; i++){
       console.log($scope.selected[i].email);
     }
+    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": $scope.selected}, responseType: "text"})
   };
   $scope.showAlert = function() {
     var alertPopup = $ionicPopup.alert({
