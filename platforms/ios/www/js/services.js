@@ -26,12 +26,12 @@ angular.module('d1.services', [])
 })
 
 .factory('showAlert', function($ionicPopup) {
-    return {
-      show: function(title, body) {
-        return $ionicPopup.alert({
-          title: title,
-          template: body
-        });
+  return {
+    show: function(title, body) {
+      return $ionicPopup.alert({
+        title: title,
+        template: body
+      });
     }
   };
 });

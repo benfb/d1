@@ -1,6 +1,6 @@
 angular.module('d1.controllers', [])
 
-.controller('AlertCtrl', function($scope, Contacts, $ionicPopup, $http, showAlert) {
+.controller('AlertCtrl', function($scope, Contacts, $http, showAlert) {
   $scope.contacts = Contacts.all();
   $scope.getSelected = function() {$scope.selected = Contacts.all().filter(function(x){ return x.selected; });}
   $scope.logSelected = function() {
@@ -27,12 +27,6 @@ angular.module('d1.controllers', [])
         showAlert.show("Error", data);
       });
   };
-  // $scope.showAlert = function(title, body) {
-  //   var alertPopup = $ionicPopup.alert({
-  //     title: title,
-  //     template: body
-  //   });
-  // };
 })
 
 .controller('CrisisCtrl', function($scope, Contacts) {
