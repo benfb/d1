@@ -9,24 +9,28 @@ angular.module('d1.controllers', [])
   }
   $scope.sendText = function(){
     $scope.getSelected();
-    for(var i = 0; i < $scope.selected.length; i++){
-      console.log($scope.selected[i].phone);
-    }
+    // for(var i = 0; i < $scope.selected.length; i++){
+    //   console.log($scope.selected[i].phone);
+    // }
+    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": $scope.selected}, responseType: "text"})
   };
   $scope.sendEmail = function(){
     $scope.getSelected();
-    for(var i = 0; i < $scope.selected.length; i++){
-      console.log($scope.selected[i].email);
-    }
-    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": $scope.selected}, responseType: "text"})
+    // for(var i = 0; i < $scope.selected.length; i++){
+    //   console.log($scope.selected[i].email);
+    // }
+    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": $scope.selected}, responseType: "text"}).
+      success(function(data) {
+        $scope.showAlert("Success", data);
+      }).
+      error(function(data) {
+        $scope.showAlert("Error", data);
+      });
   };
-  $scope.showAlert = function() {
+  $scope.showAlert = function(title, body) {
     var alertPopup = $ionicPopup.alert({
-      title: 'Don\'t eat that!',
-      template: 'It might taste good'
-    });
-    alertPopup.then(function(res) {
-     console.log('Thank you for not eating my delicious ice cream cone');
+      title: title,
+      template: body
     });
   };
 })
