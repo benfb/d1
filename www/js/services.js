@@ -21,6 +21,9 @@ angular.module('d1.services', [])
     get: function(contactId) {
       // Simple index lookup
       return contacts[contactId];
+    },
+    getSelected: function() {
+      return contacts.filter(function(x){ return x.selected; })
     }
   }
 })
