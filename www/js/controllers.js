@@ -9,16 +9,16 @@ angular.module('d1.controllers', [])
   }
   $scope.sendText = function(){
     $scope.getSelected();
-    // for(var i = 0; i < $scope.selected.length; i++){
-    //   console.log($scope.selected[i].phone);
-    // }
-    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": $scope.selected}, responseType: "text"})
+    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": $scope.selected}, responseType: "text"}).
+      success(function(data) {
+        $scope.showAlert("Success", data);
+      }).
+      error(function(data) {
+        $scope.showAlert("Error", data);
+      });
   };
   $scope.sendEmail = function(){
     $scope.getSelected();
-    // for(var i = 0; i < $scope.selected.length; i++){
-    //   console.log($scope.selected[i].email);
-    // }
     $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": $scope.selected}, responseType: "text"}).
       success(function(data) {
         $scope.showAlert("Success", data);
