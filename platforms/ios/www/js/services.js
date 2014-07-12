@@ -4,6 +4,7 @@ angular.module('d1.services', [])
  * A simple example service that returns some data.
  */
 .factory('Contacts', function() {
+  // Might use a resource here that returns a JSON array
 
   // Some fake testing data
   var contacts = [
@@ -22,13 +23,15 @@ angular.module('d1.services', [])
       return contacts[contactId];
     }
   }
-});
+})
 
-.factory('ShowAlert', function() {
-  var showalert = {};
-  return {
-    show: function() {
-      return showalert;
-    };
-  }
+.factory('showAlert', function($ionicPopup) {
+    return {
+      show: function(title, body) {
+        return $ionicPopup.alert({
+          title: title,
+          template: body
+        });
+    }
+  };
 });

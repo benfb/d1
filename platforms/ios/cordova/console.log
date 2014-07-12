@@ -774,3 +774,20 @@ Terminating in response to SpringBoard's termination.
 2014-07-12 13:45:11.403 HelloCordova[56100:70b] [CDVTimer][TotalPluginStartup] 1.496017ms
 2014-07-12 13:45:11.516 HelloCordova[56100:70b] Resetting plugins due to page load.
 2014-07-12 13:45:11.686 HelloCordova[56100:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9F5A1F41-A4E2-4E48-B1DF-C93EF562575E/HelloCordova.app/www/index.html
+2014-07-12 13:47:08.905 HelloCordova[56442:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-12 13:47:08.915 HelloCordova[56442:70b] Unlimited access to network resources
+2014-07-12 13:47:08.936 HelloCordova[56442:70b] [CDVTimer][keyboard] 0.083983ms
+2014-07-12 13:47:08.936 HelloCordova[56442:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-12 13:47:08.937 HelloCordova[56442:70b] [CDVTimer][statusbar] 0.437975ms
+2014-07-12 13:47:08.937 HelloCordova[56442:70b] [CDVTimer][TotalPluginStartup] 1.448035ms
+2014-07-12 13:47:09.050 HelloCordova[56442:70b] Resetting plugins due to page load.
+2014-07-12 13:47:09.224 HelloCordova[56442:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9F5A1F41-A4E2-4E48-B1DF-C93EF562575E/HelloCordova.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-12 13:54:26.158 HelloCordova[56786:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-12 13:54:26.167 HelloCordova[56786:70b] Unlimited access to network resources
+2014-07-12 13:54:26.198 HelloCordova[56786:70b] [CDVTimer][keyboard] 0.093997ms
+2014-07-12 13:54:26.199 HelloCordova[56786:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-12 13:54:26.199 HelloCordova[56786:70b] [CDVTimer][statusbar] 0.470042ms
+2014-07-12 13:54:26.200 HelloCordova[56786:70b] [CDVTimer][TotalPluginStartup] 1.774013ms
+2014-07-12 13:54:26.315 HelloCordova[56786:70b] Resetting plugins due to page load.
+2014-07-12 13:54:26.554 HelloCordova[56786:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9F5A1F41-A4E2-4E48-B1DF-C93EF562575E/HelloCordova.app/www/index.html#/tab/alert

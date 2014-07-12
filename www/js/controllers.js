@@ -1,6 +1,6 @@
 angular.module('d1.controllers', [])
 
-.controller('AlertCtrl', function($scope, Contacts, $ionicPopup, $http) {
+.controller('AlertCtrl', function($scope, Contacts, $ionicPopup, $http, showAlert) {
   $scope.contacts = Contacts.all();
   $scope.getSelected = function() {$scope.selected = Contacts.all().filter(function(x){ return x.selected; });}
   $scope.logSelected = function() {
@@ -11,27 +11,21 @@ angular.module('d1.controllers', [])
     $scope.getSelected();
     $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": $scope.selected}, responseType: "text"}).
       success(function(data) {
-        $scope.showAlert("Success", data);
+        showAlert.show("Success", data);
       }).
       error(function(data) {
-        $scope.showAlert("Error", data);
+        showAlert.show("Error", data);
       });
   };
   $scope.sendEmail = function(){
     $scope.getSelected();
     $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": $scope.selected}, responseType: "text"}).
       success(function(data) {
-        $scope.showAlert("Success", data);
+        showAlert.show("Success", data);
       }).
       error(function(data) {
-        $scope.showAlert("Error", data);
+        showAlert.show("Error", data);
       });
-  };
-  $scope.showAlert = function(title, body) {
-    var alertPopup = $ionicPopup.alert({
-      title: title,
-      template: body
-    });
   };
 })
 

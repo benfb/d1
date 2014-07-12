@@ -23,4 +23,15 @@ angular.module('d1.services', [])
       return contacts[contactId];
     }
   }
+})
+
+.factory('showAlert', function($ionicPopup) {
+    return {
+      show: function(title, body) {
+        return $ionicPopup.alert({
+          title: title,
+          template: body
+        });
+    }
+  };
 });
