@@ -1,8 +1,5 @@
 angular.module('d1.services', [])
 
-/**
- * A simple example service that returns some data.
- */
 .factory('Contacts', function() {
   var contacts = [];
 
@@ -18,11 +15,12 @@ angular.module('d1.services', [])
       return (angular.fromJson(window.localStorage['contacts']).filter(function(x){ return x.id == contactId }))[0];
     },
     getSelected: function() {
-      return angular.fromJson(window.localStorage['contacts']).filter(function(x){ return x.selected; })
+      //console.log(angular.fromJson(window.localStorage['contacts']))
+      return angular.fromJson(window.localStorage['contacts']).filter(function(x){ return x.selected; });
     },
     save: function(contacts) {
       window.localStorage['contacts'] = angular.toJson(contacts);
-    },
+    }
   }
 })
 
@@ -35,4 +33,17 @@ angular.module('d1.services', [])
       });
     }
   };
+})
+
+.factory('User', function() {
+  var user = [];
+
+  return {
+    get: function() {
+      return angular.fromJson(window.localStorage['user']);
+    },
+    save: function(user) {
+      window.localStorage['user'] = angular.toJson(user);
+    }
+  }
 });

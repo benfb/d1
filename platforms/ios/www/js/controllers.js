@@ -1,9 +1,10 @@
 angular.module('d1.controllers', [])
 
-.controller('AlertCtrl', function($scope, Contacts, $http, showAlert) {
+.controller('AlertCtrl', function($scope, Contacts, $http, showAlert, User) {
   $scope.contacts = Contacts.all();
   $scope.sendText = function(){
-    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": Contacts.getSelected()}, responseType: "text"}).
+    Contacts.save($scope.contacts);
+    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": Contacts.getSelected(), "user": User.get()}, responseType: "text"}).
       success(function(data) {
         showAlert.show("Success", data);
       }).
@@ -12,9 +13,11 @@ angular.module('d1.controllers', [])
       });
   };
   $scope.sendEmail = function(){
-    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": Contacts.getSelected()}, responseType: "text"}).
+    Contacts.save($scope.contacts);
+    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": Contacts.getSelected(), "user": User.get()}, responseType: "text"}).
       success(function(data) {
         showAlert.show("Success", data);
+        console.log(Contacts.getSelected());
       }).
       error(function(data) {
         showAlert.show("Error", data);
@@ -22,17 +25,10 @@ angular.module('d1.controllers', [])
   };
 })
 
-.controller('CrisisCtrl', function($scope, Contacts, $http, showAlert) {
+.controller('CrisisCtrl', function($scope, Contacts, $http, showAlert, User) {
   $scope.contacts = Contacts.all();
   $scope.sendCrisis = function() {
-    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": Contacts.all(), "crisis": true}, responseType: "text"}).
-      success(function(data) {
-        showAlert.show("Success", data);
-      }).
-      error(function(data) {
-        showAlert.show("Error", data);
-      });
-    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": Contacts.all(), "crisis": true}, responseType: "text"}).
+    $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/crisis', data: {"selected": Contacts.all(), "user": User.get()}, responseType: "text"}).
       success(function(data) {
         showAlert.show("Success", data);
       }).
@@ -87,5 +83,8 @@ angular.module('d1.controllers', [])
   }
 })
 
-.controller('AccountCtrl', function($scope) {
+.controller('AccountCtrl', function($scope, User) {
+  $scope.saveUser = function(newUser) {
+    User.save(newUser);
+  }
 });

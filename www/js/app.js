@@ -9,8 +9,6 @@ angular.module('d1', ['ionic', 'd1.controllers', 'd1.services'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
-    // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
-    // for form inputs)
     if(window.cordova && window.cordova.plugins.Keyboard) {
       cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
     }
@@ -23,10 +21,6 @@ angular.module('d1', ['ionic', 'd1.controllers', 'd1.services'])
 
 .config(function($stateProvider, $urlRouterProvider) {
 
-  // Ionic uses AngularUI Router which uses the concept of states
-  // Learn more here: https://github.com/angular-ui/ui-router
-  // Set up the various states which the app can be in.
-  // Each state's controller can be found in controllers.js
   $stateProvider
 
     // setup an abstract state for the tabs directive
@@ -67,6 +61,7 @@ angular.module('d1', ['ionic', 'd1.controllers', 'd1.services'])
         }
       }
     })
+
     .state('tab.contact-detail', {
       url: '/contact/:contactId',
       views: {
@@ -77,17 +72,17 @@ angular.module('d1', ['ionic', 'd1.controllers', 'd1.services'])
       }
     })
 
-    .state('tab.account', {
-      url: '/account',
+    .state('tab.settings', {
+      url: '/settings',
       views: {
-        'tab-account': {
-          templateUrl: 'templates/tab-account.html',
+        'tab-settings': {
+          templateUrl: 'templates/tab-settings.html',
           controller: 'AccountCtrl'
         }
       }
     })
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab/alert');
+  $urlRouterProvider.otherwise('/tab/crisis');
 
 });
