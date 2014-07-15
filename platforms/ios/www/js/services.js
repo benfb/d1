@@ -4,27 +4,25 @@ angular.module('d1.services', [])
  * A simple example service that returns some data.
  */
 .factory('Contacts', function() {
-  // Might use a resource here that returns a JSON array
-
-  // Some fake testing data
-  var contacts = [
-    { id: 0, name: 'Scruff McGruff', email: 'smcgruff@gmail.com', phone: '(512) 574-8333' },
-    { id: 1, name: 'G.I. Joe', email: 'bennettbailey@gmail.com', phone: '(512) 522-8276' },
-    { id: 2, name: 'Miss Frizzle', email: 'benfbailey@gmail.com' },
-    { id: 3, name: 'Ash Ketchum' }
-  ];
+  var contacts = [];
 
   return {
     all: function() {
-      return contacts;
+      var contactString = window.localStorage['contacts'];
+      if(contactString) {
+        return angular.fromJson(contactString);
+      }
+      return [];
     },
     get: function(contactId) {
-      // Simple index lookup
-      return contacts[contactId];
+      return (angular.fromJson(window.localStorage['contacts']).filter(function(x){ return x.id == contactId }))[0];
     },
     getSelected: function() {
-      return contacts.filter(function(x){ return x.selected; })
-    }
+      return angular.fromJson(window.localStorage['contacts']).filter(function(x){ return x.selected; })
+    },
+    save: function(contacts) {
+      window.localStorage['contacts'] = angular.toJson(contacts);
+    },
   }
 })
 

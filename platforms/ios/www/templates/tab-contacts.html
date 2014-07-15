@@ -1,5 +1,42 @@
 <ion-view title="Contacts">
+  <script id="new-contact.html" type="text/ng-template">
+    <div class="modal">
+      <!-- Modal header bar -->
+      <ion-header-bar class="bar-secondary">
+        <h1 class="title">New Contact</h1>
+        <button class="button button-clear button-positive" ng-click="closeNewContact()">Cancel</button>
+      </ion-header-bar>
+      <!-- Modal content area -->
+      <ion-content>
+        <form ng-submit="createContact(contact)">
+          <div class="list">
+            <label class="item item-input">
+              <span class="input-label">Name</span>
+              <input type="text" placeholder="Jane Smith" ng-model="contact.name"></input>
+            </label>
+            <label class="item item-input">
+              <span class="input-label">Email</span>
+              <input type="email" placeholder="example@example.com" ng-model="contact.email"></input>
+            </label>
+            <label class="item item-input">
+              <span class="input-label">Phone</span>
+              <input type="tel" placeholder="(555) 555-5940" ng-model="contact.phone"></input>
+            </label>
+          </div>
+          <div class="padding">
+            <button type="submit" class="button button-block button-positive">Create Contact</button>
+          </div>
+        </form>
+      </ion-content>
+    </div>
+  </script>
+
   <ion-content class="has-header">
+    <ion-nav-buttons side="right">
+      <button class="button button-icon" ng-click="newContact()">
+        <i class="icon ion-compose"></i>
+      </button>
+    </ion-nav-buttons>
     <ion-list>
       <ion-item ng-repeat="contact in contacts" type="item-text-wrap" href="#/tab/contact/{{contact.id}}">
         {{contact.name}}

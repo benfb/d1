@@ -1,5 +1,11 @@
 <ion-view title="Crisis">
   <ion-content class="has-header padding">
-    <h1>Crisis</h1>
+    <h5>Use this option only in the most serious of emergencies. It will send the following message to your contacts:</h5>
+    <p><em>I am having suicidal thoughts right now and I need your help. Please call or text me immediately and take me to a local hospital to get a suicide assessment. If you are unable to reach me, call 911. I am not safe and cannot guarantee you that right now I will not hurt myself. This is urgent and you must take immediate action.</em></p>
+    <form>
+      <button class="button button-assertive button-block" ng-click="sendCrisis()">Send text messages and emails</button>
+    </form>
+    <p>Not an emergency? Use the <a href="alert.html">alert</a> page instead to send a less urgent message.</p>
+    <p>You can't select contacts to message on the crisis page. It messages all your contacts automatically.</p>
   </ion-content>
 </ion-view>
