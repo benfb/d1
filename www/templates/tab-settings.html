@@ -1,28 +1,38 @@
 <ion-view title="Settings">
   <ion-content class="has-header padding">
+    <p>Edit your information here. This will be used to personalize the messages sent to your contacts.</p>
     <form ng-submit="saveUser(user)">
       <div class="list">
         <label class="item item-input">
-          <span class="input-label">Name</span>
-          <input type="text" placeholder="John Smith" ng-model="user.name"></input>
+          <span class="input-label">Your Name</span>
+          <input type="text" placeholder="Margot Tenenbaum" ng-model="user.name"></input>
         </label>
         <label class="item item-input">
-          <span class="input-label">Email</span>
-          <input type="email" placeholder="example@example.com" ng-model="user.email"></input>
+          <span class="input-label">Your Email</span>
+          <input type="email" placeholder="margot@tenenbaum.com" ng-model="user.email"></input>
         </label>
         <label class="item item-input">
-          <span class="input-label">Phone</span>
-          <input type="tel" placeholder="(555) 555-5940" ng-model="user.phone"></input>
+          <span class="input-label">Your Phone</span>
+          <input type="tel" placeholder="5555555940" ng-model="user.phone"></input>
         </label>
-      </div>
-      <div class="padding">
         <button type="submit" class="button button-block button-royal">Save User</button>
+        <div class="item item-divider">
+          Current User
+        </div>
+        <a class="item item-icon-left">
+          <i class="icon ion-ios7-person"></i>
+          {{oldUser.name || 'Not set'}}
+        </a>
+        <a class="item item-icon-left">
+          <i class="icon ion-ios7-email"></i>
+          {{oldUser.email || 'Not set'}}
+        </a>
+        <a class="item item-icon-left">
+          <i class="icon ion-ios7-telephone"></i>
+          {{oldUser.phone || 'Not set'}}
+        </a>
       </div>
     </form>
-    <!-- <ion-list>
-        <ion-item ng-model="user.name">{{user.name}}</ion-item>
-        <ion-item ng-model="user.email">{{user.email}}</ion-item>
-        <ion-item ng-model="user.phone">{{user.phone}}</ion-item>
-    </ion-list> -->
+    <br>
   </ion-content>
 </ion-view>

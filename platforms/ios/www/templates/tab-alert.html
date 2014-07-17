@@ -1,15 +1,17 @@
 <ion-view title="Alert">
   <ion-content class="has-header padding">
-    <h5>Use this option if you're having a bad time and need support from friends and family. It will send the following message to your contacts:</h5>
-    <p><em>Emergency! Ben Bailey needs your help. Text them to let them know you're there for them.</em></p>
+    <h6>Use this option if you're having a bad time and need support from friends and family. It will send the following message to your contacts:</h6>
+    <p><em>Emergency! {{user.name}} needs your help. Text them to let them know you're there for them.</em></p>
     <form>
       <button class="button button-balanced button-block" ng-click="sendText()">Send text messages</button>
-      <button class="button button-positive button-block" ng-click="sendEmail()">Send emails</button>
+      <button class="button button-calm button-block" ng-click="sendEmail()">Send emails</button>
     </form>
-    <p>If your life is in immediate danger, use the <a href="crisis.html">crisis</a> page to send a more urgent message.</p>
+    <p>If your life is in immediate danger, use the <a href="#/tab/crisis">crisis</a> page to send a more urgent message.</p>
     <p>Select contacts to message below. If you do not select any, all will be messaged by default.</p>
+    <p>If you wish to change the name that appears in the message, go to the <a href="#/tab/settings">settings</a> page.</p>
     <ion-list>
         <ion-checkbox ng-repeat="contact in contacts" ng-model="contact.selected">{{contact.name}}</ion-checkbox>
     </ion-list>
+    <br>
   </ion-content>
 </ion-view>

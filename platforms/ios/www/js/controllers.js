@@ -2,6 +2,7 @@ angular.module('d1.controllers', [])
 
 .controller('AlertCtrl', function($scope, Contacts, $http, showAlert, User) {
   $scope.contacts = Contacts.all();
+  $scope.user = User.get();
   $scope.sendText = function(){
     Contacts.save($scope.contacts);
     $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": Contacts.getSelected(), "user": User.get()}, responseType: "text"}).
@@ -17,7 +18,6 @@ angular.module('d1.controllers', [])
     $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/email', data: {"selected": Contacts.getSelected(), "user": User.get()}, responseType: "text"}).
       success(function(data) {
         showAlert.show("Success", data);
-        console.log(Contacts.getSelected());
       }).
       error(function(data) {
         showAlert.show("Error", data);
@@ -83,8 +83,13 @@ angular.module('d1.controllers', [])
   }
 })
 
-.controller('AccountCtrl', function($scope, User) {
+.controller('SettingsCtrl', function($scope, User, showAlert, $http) {
+  $scope.oldUser = User.get();
   $scope.saveUser = function(newUser) {
     User.save(newUser);
+    showAlert.show("User Updated", "Your information has been updated.").then(function(res) {
+      $scope.user = {};
+      $scope.oldUser = User.get();
+    })
   }
 });

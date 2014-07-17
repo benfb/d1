@@ -72,17 +72,17 @@ angular.module('d1', ['ionic', 'd1.controllers', 'd1.services'])
       }
     })
 
-    .state('tab.account', {
-      url: '/account',
+    .state('tab.settings', {
+      url: '/settings',
       views: {
-        'tab-account': {
-          templateUrl: 'templates/tab-account.html',
-          controller: 'AccountCtrl'
+        'tab-settings': {
+          templateUrl: 'templates/tab-settings.html',
+          controller: 'SettingsCtrl'
         }
       }
     })
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab/crisis');
+  $urlRouterProvider.otherwise('/tab/alert');
 
 });
