@@ -3,6 +3,7 @@ angular.module('d1.controllers', [])
 .controller('AlertCtrl', function($scope, Contacts, $http, showAlert, User) {
   $scope.contacts = Contacts.all();
   $scope.user = User.get();
+  console.log($scope.user);
   $scope.sendText = function(){
     Contacts.save($scope.contacts);
     $http({method: 'POST', url: 'http://d1backend-bfb.rhcloud.com/sms', data: {"selected": Contacts.getSelected(), "user": User.get()}, responseType: "text"}).
@@ -83,13 +84,51 @@ angular.module('d1.controllers', [])
   }
 })
 
-.controller('SettingsCtrl', function($scope, User, showAlert, $http) {
+.controller('SettingsCtrl', function($scope, $state, User, $ionicPopup) {
   $scope.oldUser = User.get();
   $scope.saveUser = function(newUser) {
-    User.save(newUser);
-    showAlert.show("User Updated", "Your information has been updated.").then(function(res) {
-      $scope.user = {};
-      $scope.oldUser = User.get();
-    })
+    if(angular.isDefined(newUser)) {
+      User.save(newUser);
+      showAlert.show("User Updated", "Your information has been updated.").then(function(res) {
+        $scope.oldUser = User.get();
+      })
+    }
+    else {
+      showAlert.show("Error", "You need to at least put in a name.");
+    }
   }
+  $scope.tutorial = function() {
+    $state.go('intro');
+  }
+  $scope.resetDefcon = function() {
+     var confirmPopup = $ionicPopup.confirm({
+       title: 'Reset Defcon One',
+       template: 'Are you sure you want to erase all your stored data?'
+     });
+     confirmPopup.then(function(res) {
+       if(res) {
+         localStorage.clear();
+       }
+     });
+  }
+})
+
+.controller('IntroCtrl', function($scope, $state, $ionicSlideBoxDelegate) {
+  // Called to navigate to the main app
+  $scope.startApp = function() {
+    $state.go('tab.settings');
+    window.localStorage['intro'] = false;
+  };
+
+  $scope.next = function() {
+    $ionicSlideBoxDelegate.next();
+  };
+  $scope.previous = function() {
+    $ionicSlideBoxDelegate.previous();
+  };
+
+  // Called each time the slide changes
+  $scope.slideChanged = function(index) {
+    $scope.slideIndex = index;
+  };
 });

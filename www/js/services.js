@@ -15,8 +15,14 @@ angular.module('d1.services', [])
       return (angular.fromJson(window.localStorage['contacts']).filter(function(x){ return x.id == contactId }))[0];
     },
     getSelected: function() {
-      //console.log(angular.fromJson(window.localStorage['contacts']))
-      return angular.fromJson(window.localStorage['contacts']).filter(function(x){ return x.selected; });
+      var filtered = angular.fromJson(window.localStorage['contacts']).filter(function(x){ return x.selected; });
+      var contactString = window.localStorage['contacts'];
+      if(filtered.length > 0) {
+        return filtered;
+      }
+      else {
+        return angular.fromJson(contactString);
+      }
     },
     save: function(contacts) {
       window.localStorage['contacts'] = angular.toJson(contacts);

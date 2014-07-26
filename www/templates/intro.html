@@ -1,0 +1,44 @@
+<ion-view title="">
+  <ion-nav-buttons side="left">
+    <button class="button button-positive button-clear no-animation"
+            ng-click="startApp()" ng-if="!slideIndex">
+      Skip Tutorial
+    </button>
+    <button class="button button-positive button-clear no-animation"
+            ng-click="previous()" ng-if="slideIndex > 0">
+      Previous
+    </button>
+  </ion-nav-buttons>
+  <ion-nav-buttons side="right">
+    <button class="button button-positive button-clear no-animation"
+            ng-click="next()" ng-if="slideIndex != 1">
+      Next
+    </button>
+    <button class="button button-positive button-clear no-animation"
+            ng-click="startApp()" ng-if="slideIndex == 1">
+      Start using Defcon One
+    </button>
+  </ion-nav-buttons>
+  <ion-slide-box on-slide-changed="slideChanged(index)">
+    <ion-slide>
+      <h3>Welcome to Defcon One!</h3>
+      <div id="logo">
+        <img src="img/icon.png" height=128 width=128>
+      </div>
+      <p class="introp">
+        Defcon One is an alert system for people in times of need to send messages and get in touch with friends and family through a simple web interface.
+      </p>
+    </ion-slide>
+    <ion-slide>
+      <h3>Using Defcon One</h3>
+
+      <div id="list">
+        <ol>
+          <li>Set your name, email, and phone number in the settings tab</li>
+          <li>Add your contacts' information in the contacts tab</li>
+          <li>Use the alert or crisis tabs to send messages to them</li>
+        </ol>
+      </div>
+    </ion-slide>
+  </ion-slide-box>
+</ion-view>

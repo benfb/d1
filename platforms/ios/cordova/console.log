@@ -492,3 +492,1440 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-07-17 17:08:28.675 DefconOne[49254:70b] [CDVTimer][TotalPluginStartup] 3.068030ms
 2014-07-17 17:08:28.792 DefconOne[49254:70b] Resetting plugins due to page load.
 2014-07-17 17:08:28.948 DefconOne[49254:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+2014-07-17 17:14:44.157 DefconOne[49762:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 17:14:44.166 DefconOne[49762:70b] Unlimited access to network resources
+2014-07-17 17:14:44.169 DefconOne[49762:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 17:14:44.187 DefconOne[49762:70b] [CDVTimer][keyboard] 0.090003ms
+2014-07-17 17:14:44.188 DefconOne[49762:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 17:14:44.188 DefconOne[49762:70b] [CDVTimer][statusbar] 0.428975ms
+2014-07-17 17:14:44.189 DefconOne[49762:70b] [CDVTimer][TotalPluginStartup] 1.461029ms
+2014-07-17 17:14:44.309 DefconOne[49762:70b] Resetting plugins due to page load.
+2014-07-17 17:14:44.489 DefconOne[49762:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-17 17:17:06.393 DefconOne[50191:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 17:17:06.402 DefconOne[50191:70b] Unlimited access to network resources
+2014-07-17 17:17:06.405 DefconOne[50191:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 17:17:06.422 DefconOne[50191:70b] [CDVTimer][keyboard] 0.086010ms
+2014-07-17 17:17:06.423 DefconOne[50191:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 17:17:06.423 DefconOne[50191:70b] [CDVTimer][statusbar] 0.621974ms
+2014-07-17 17:17:06.424 DefconOne[50191:70b] [CDVTimer][TotalPluginStartup] 1.810968ms
+2014-07-17 17:17:06.543 DefconOne[50191:70b] Resetting plugins due to page load.
+2014-07-17 17:17:06.745 DefconOne[50191:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+2014-07-17 17:18:06.304 DefconOne[50623:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 17:18:06.313 DefconOne[50623:70b] Unlimited access to network resources
+2014-07-17 17:18:06.316 DefconOne[50623:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 17:18:06.335 DefconOne[50623:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-17 17:18:06.335 DefconOne[50623:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 17:18:06.335 DefconOne[50623:70b] [CDVTimer][statusbar] 0.440001ms
+2014-07-17 17:18:06.336 DefconOne[50623:70b] [CDVTimer][TotalPluginStartup] 1.385033ms
+2014-07-17 17:18:06.504 DefconOne[50623:70b] Resetting plugins due to page load.
+2014-07-17 17:18:06.751 DefconOne[50623:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-17 17:27:03.645 DefconOne[51091:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 17:27:03.654 DefconOne[51091:70b] Unlimited access to network resources
+2014-07-17 17:27:03.658 DefconOne[51091:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 17:27:03.676 DefconOne[51091:70b] [CDVTimer][keyboard] 0.091016ms
+2014-07-17 17:27:03.677 DefconOne[51091:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 17:27:03.677 DefconOne[51091:70b] [CDVTimer][statusbar] 0.424981ms
+2014-07-17 17:27:03.678 DefconOne[51091:70b] [CDVTimer][TotalPluginStartup] 1.417994ms
+2014-07-17 17:27:03.805 DefconOne[51091:70b] Resetting plugins due to page load.
+2014-07-17 17:27:04.045 DefconOne[51091:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+2014-07-17 17:28:51.074 DefconOne[51524:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 17:28:51.083 DefconOne[51524:70b] Unlimited access to network resources
+2014-07-17 17:28:51.086 DefconOne[51524:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 17:28:51.104 DefconOne[51524:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-17 17:28:51.105 DefconOne[51524:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 17:28:51.105 DefconOne[51524:70b] [CDVTimer][statusbar] 0.404000ms
+2014-07-17 17:28:51.106 DefconOne[51524:70b] [CDVTimer][TotalPluginStartup] 1.439989ms
+2014-07-17 17:28:51.222 DefconOne[51524:70b] Resetting plugins due to page load.
+2014-07-17 17:28:51.388 DefconOne[51524:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-17 17:30:00.728 DefconOne[51953:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 17:30:00.738 DefconOne[51953:70b] Unlimited access to network resources
+2014-07-17 17:30:00.740 DefconOne[51953:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 17:30:00.758 DefconOne[51953:70b] [CDVTimer][keyboard] 0.125051ms
+2014-07-17 17:30:00.759 DefconOne[51953:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 17:30:00.759 DefconOne[51953:70b] [CDVTimer][statusbar] 0.382006ms
+2014-07-17 17:30:00.759 DefconOne[51953:70b] [CDVTimer][TotalPluginStartup] 1.401961ms
+2014-07-17 17:30:00.873 DefconOne[51953:70b] Resetting plugins due to page load.
+2014-07-17 17:30:01.042 DefconOne[51953:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+2014-07-17 17:31:26.767 DefconOne[52385:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 17:31:26.776 DefconOne[52385:70b] Unlimited access to network resources
+2014-07-17 17:31:26.780 DefconOne[52385:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 17:31:26.806 DefconOne[52385:70b] [CDVTimer][keyboard] 0.089049ms
+2014-07-17 17:31:26.807 DefconOne[52385:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 17:31:26.807 DefconOne[52385:70b] [CDVTimer][statusbar] 0.416994ms
+2014-07-17 17:31:26.807 DefconOne[52385:70b] [CDVTimer][TotalPluginStartup] 1.470983ms
+2014-07-17 17:31:26.924 DefconOne[52385:70b] Resetting plugins due to page load.
+2014-07-17 17:31:27.111 DefconOne[52385:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+2014-07-17 17:32:01.882 DefconOne[52385:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":true},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false},{"name":"Brian Bailey","email":"brianbailey@gmail.com","phone":"5125748100","id":2,"selected":false}]
+2014-07-17 17:32:22.981 DefconOne[52805:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 17:32:22.990 DefconOne[52805:70b] Unlimited access to network resources
+2014-07-17 17:32:22.993 DefconOne[52805:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 17:32:23.013 DefconOne[52805:70b] [CDVTimer][keyboard] 0.091970ms
+2014-07-17 17:32:23.014 DefconOne[52805:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 17:32:23.015 DefconOne[52805:70b] [CDVTimer][statusbar] 0.555038ms
+2014-07-17 17:32:23.015 DefconOne[52805:70b] [CDVTimer][TotalPluginStartup] 1.954019ms
+2014-07-17 17:32:23.122 DefconOne[52805:70b] Resetting plugins due to page load.
+2014-07-17 17:32:23.292 DefconOne[52805:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-17 20:24:30.295 DefconOne[53463:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 20:24:30.317 DefconOne[53463:70b] Unlimited access to network resources
+2014-07-17 20:24:30.320 DefconOne[53463:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 20:24:30.339 DefconOne[53463:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-17 20:24:30.340 DefconOne[53463:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 20:24:30.340 DefconOne[53463:70b] [CDVTimer][statusbar] 0.407994ms
+2014-07-17 20:24:30.341 DefconOne[53463:70b] [CDVTimer][TotalPluginStartup] 1.391947ms
+2014-07-17 20:24:30.471 DefconOne[53463:70b] Resetting plugins due to page load.
+2014-07-17 20:24:30.650 DefconOne[53463:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+2014-07-17 20:24:55.106 DefconOne[53463:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":true},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false},{"name":"Brian Bailey","email":"brianbailey@gmail.com","phone":"5125748100","id":2,"selected":false}]
+Terminating in response to SpringBoard's termination.
+2014-07-17 21:35:03.534 DefconOne[53918:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 21:35:03.544 DefconOne[53918:70b] Unlimited access to network resources
+2014-07-17 21:35:03.548 DefconOne[53918:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 21:35:03.566 DefconOne[53918:70b] [CDVTimer][keyboard] 0.095010ms
+2014-07-17 21:35:03.566 DefconOne[53918:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 21:35:03.567 DefconOne[53918:70b] [CDVTimer][statusbar] 0.531018ms
+2014-07-17 21:35:03.567 DefconOne[53918:70b] [CDVTimer][TotalPluginStartup] 1.569033ms
+2014-07-17 21:35:03.678 DefconOne[53918:70b] Resetting plugins due to page load.
+2014-07-17 21:35:04.053 DefconOne[53918:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html
+2014-07-17 21:36:57.776 DefconOne[54351:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 21:36:57.787 DefconOne[54351:70b] Unlimited access to network resources
+2014-07-17 21:36:57.790 DefconOne[54351:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 21:36:57.810 DefconOne[54351:70b] [CDVTimer][keyboard] 0.091970ms
+2014-07-17 21:36:57.811 DefconOne[54351:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 21:36:57.811 DefconOne[54351:70b] [CDVTimer][statusbar] 0.781000ms
+2014-07-17 21:36:57.812 DefconOne[54351:70b] [CDVTimer][TotalPluginStartup] 2.489984ms
+2014-07-17 21:36:57.967 DefconOne[54351:70b] Resetting plugins due to page load.
+2014-07-17 21:36:58.189 DefconOne[54351:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-17 21:39:18.179 DefconOne[54779:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 21:39:18.191 DefconOne[54779:70b] Unlimited access to network resources
+2014-07-17 21:39:18.194 DefconOne[54779:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 21:39:18.217 DefconOne[54779:70b] [CDVTimer][keyboard] 0.093997ms
+2014-07-17 21:39:18.217 DefconOne[54779:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 21:39:18.218 DefconOne[54779:70b] [CDVTimer][statusbar] 0.532031ms
+2014-07-17 21:39:18.218 DefconOne[54779:70b] [CDVTimer][TotalPluginStartup] 1.711011ms
+2014-07-17 21:39:18.372 DefconOne[54779:70b] Resetting plugins due to page load.
+2014-07-17 21:39:18.617 DefconOne[54779:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-17 21:44:08.660 DefconOne[55282:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-17 21:44:08.670 DefconOne[55282:70b] Unlimited access to network resources
+2014-07-17 21:44:08.673 DefconOne[55282:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-17 21:44:08.694 DefconOne[55282:70b] [CDVTimer][keyboard] 0.090957ms
+2014-07-17 21:44:08.694 DefconOne[55282:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-17 21:44:08.695 DefconOne[55282:70b] [CDVTimer][statusbar] 0.418961ms
+2014-07-17 21:44:08.695 DefconOne[55282:70b] [CDVTimer][TotalPluginStartup] 1.564980ms
+2014-07-17 21:44:08.824 DefconOne[55282:70b] Resetting plugins due to page load.
+2014-07-17 21:44:09.144 DefconOne[55282:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-18 11:31:23.697 DefconOne[56526:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 11:31:23.736 DefconOne[56526:70b] Unlimited access to network resources
+2014-07-18 11:31:23.740 DefconOne[56526:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 11:31:23.884 DefconOne[56526:70b] [CDVTimer][keyboard] 0.092983ms
+2014-07-18 11:31:23.884 DefconOne[56526:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 11:31:23.885 DefconOne[56526:70b] [CDVTimer][statusbar] 0.438988ms
+2014-07-18 11:31:23.885 DefconOne[56526:70b] [CDVTimer][TotalPluginStartup] 1.439035ms
+2014-07-18 11:31:24.053 DefconOne[56526:70b] Resetting plugins due to page load.
+2014-07-18 11:31:24.440 DefconOne[56526:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+2014-07-18 11:32:22.182 DefconOne[56526:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":false},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false},{"name":"Brian Bailey","email":"brianbailey@gmail.com","phone":"5125748100","id":2,"selected":false}]
+2014-07-18 11:32:25.340 DefconOne[56526:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":false},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false},{"name":"Brian Bailey","email":"brianbailey@gmail.com","phone":"5125748100","id":2,"selected":false}]
+2014-07-18 11:32:30.304 DefconOne[56526:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":false},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false}]
+2014-07-18 11:33:46.135 DefconOne[56526:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":false},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false}]
+2014-07-18 11:33:47.943 DefconOne[56526:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":false},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false}]
+2014-07-18 11:33:58.457 DefconOne[56526:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":false},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false}]
+2014-07-18 11:34:50.751 DefconOne[56526:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":true},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false}]
+Terminating in response to SpringBoard's termination.
+2014-07-18 18:45:41.081 DefconOne[57976:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 18:45:41.113 DefconOne[57976:70b] Unlimited access to network resources
+2014-07-18 18:45:41.132 DefconOne[57976:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 18:45:41.266 DefconOne[57976:70b] [CDVTimer][keyboard] 0.093043ms
+2014-07-18 18:45:41.267 DefconOne[57976:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 18:45:41.267 DefconOne[57976:70b] [CDVTimer][statusbar] 0.402033ms
+2014-07-18 18:45:41.268 DefconOne[57976:70b] [CDVTimer][TotalPluginStartup] 1.461983ms
+2014-07-18 18:45:41.430 DefconOne[57976:70b] Resetting plugins due to page load.
+2014-07-18 18:45:41.721 DefconOne[57976:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-18 19:32:04.312 DefconOne[59394:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:32:04.322 DefconOne[59394:70b] Unlimited access to network resources
+2014-07-18 19:32:04.333 DefconOne[59394:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:32:04.433 DefconOne[59394:70b] [CDVTimer][keyboard] 0.092983ms
+2014-07-18 19:32:04.433 DefconOne[59394:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:32:04.433 DefconOne[59394:70b] [CDVTimer][statusbar] 0.420988ms
+2014-07-18 19:32:04.434 DefconOne[59394:70b] [CDVTimer][TotalPluginStartup] 1.509011ms
+2014-07-18 19:32:04.664 DefconOne[59394:70b] Resetting plugins due to page load.
+2014-07-18 19:32:04.967 DefconOne[59394:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-18 19:32:50.244 DefconOne[59822:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:32:50.255 DefconOne[59822:70b] Unlimited access to network resources
+2014-07-18 19:32:50.258 DefconOne[59822:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:32:50.277 DefconOne[59822:70b] [CDVTimer][keyboard] 0.096977ms
+2014-07-18 19:32:50.278 DefconOne[59822:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:32:50.279 DefconOne[59822:70b] [CDVTimer][statusbar] 0.566959ms
+2014-07-18 19:32:50.279 DefconOne[59822:70b] [CDVTimer][TotalPluginStartup] 1.655042ms
+2014-07-18 19:32:50.413 DefconOne[59822:70b] Resetting plugins due to page load.
+2014-07-18 19:32:50.682 DefconOne[59822:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/settings
+2014-07-18 19:33:11.956 DefconOne[59822:70b] Resetting plugins due to page load.
+2014-07-18 19:33:11.985 DefconOne[59822:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html?#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-18 19:37:41.754 DefconOne[60260:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:37:41.764 DefconOne[60260:70b] Unlimited access to network resources
+2014-07-18 19:37:41.767 DefconOne[60260:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:37:41.786 DefconOne[60260:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-18 19:37:41.787 DefconOne[60260:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:37:41.787 DefconOne[60260:70b] [CDVTimer][statusbar] 0.423014ms
+2014-07-18 19:37:41.788 DefconOne[60260:70b] [CDVTimer][TotalPluginStartup] 1.410007ms
+2014-07-18 19:37:41.905 DefconOne[60260:70b] Resetting plugins due to page load.
+2014-07-18 19:37:42.093 DefconOne[60260:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/settings
+2014-07-18 19:38:04.961 DefconOne[60260:70b] Resetting plugins due to page load.
+2014-07-18 19:38:04.988 DefconOne[60260:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html?#/tab/alert
+2014-07-18 19:38:13.965 DefconOne[60260:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":true},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false}]
+2014-07-18 19:38:16.980 DefconOne[60260:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0,"selected":true},{"name":"Ben Two","email":"benfbailey@gmail.com","phone":"5125228276","id":1,"selected":false}]
+Terminating in response to SpringBoard's termination.
+2014-07-18 19:41:36.266 DefconOne[60705:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:41:36.276 DefconOne[60705:70b] Unlimited access to network resources
+2014-07-18 19:41:36.279 DefconOne[60705:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:41:36.299 DefconOne[60705:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-18 19:41:36.300 DefconOne[60705:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:41:36.300 DefconOne[60705:70b] [CDVTimer][statusbar] 0.401974ms
+2014-07-18 19:41:36.301 DefconOne[60705:70b] [CDVTimer][TotalPluginStartup] 1.480997ms
+2014-07-18 19:41:36.413 DefconOne[60705:70b] Resetting plugins due to page load.
+2014-07-18 19:41:36.576 DefconOne[60705:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/23202DB3-1B3D-4395-A675-FF107772662B/DefconOne.app/www/index.html#/tab/settings
+2014-07-18 19:42:06.503 DefconOne[61163:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:42:06.512 DefconOne[61163:70b] Unlimited access to network resources
+2014-07-18 19:42:06.516 DefconOne[61163:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:42:06.540 DefconOne[61163:70b] [CDVTimer][keyboard] 0.087976ms
+2014-07-18 19:42:06.540 DefconOne[61163:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:42:06.541 DefconOne[61163:70b] [CDVTimer][statusbar] 0.422001ms
+2014-07-18 19:42:06.541 DefconOne[61163:70b] [CDVTimer][TotalPluginStartup] 1.424015ms
+2014-07-18 19:42:06.674 DefconOne[61163:70b] Resetting plugins due to page load.
+2014-07-18 19:42:06.842 DefconOne[61163:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EE07760-4AF4-4A2D-9E24-B25DB51F156A/DefconOne.app/www/index.html#/tab/settings
+2014-07-18 19:42:17.294 DefconOne[61163:70b] Resetting plugins due to page load.
+2014-07-18 19:42:17.322 DefconOne[61163:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EE07760-4AF4-4A2D-9E24-B25DB51F156A/DefconOne.app/www/index.html?#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-18 19:46:28.976 DefconOne[61601:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:46:28.985 DefconOne[61601:70b] Unlimited access to network resources
+2014-07-18 19:46:28.989 DefconOne[61601:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:46:29.007 DefconOne[61601:70b] [CDVTimer][keyboard] 0.082016ms
+2014-07-18 19:46:29.008 DefconOne[61601:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:46:29.008 DefconOne[61601:70b] [CDVTimer][statusbar] 0.408947ms
+2014-07-18 19:46:29.008 DefconOne[61601:70b] [CDVTimer][TotalPluginStartup] 1.364052ms
+2014-07-18 19:46:29.117 DefconOne[61601:70b] Resetting plugins due to page load.
+2014-07-18 19:46:29.295 DefconOne[61601:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EE07760-4AF4-4A2D-9E24-B25DB51F156A/DefconOne.app/www/index.html#/tab/settings
+2014-07-18 19:46:49.466 DefconOne[62040:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:46:49.476 DefconOne[62040:70b] Unlimited access to network resources
+2014-07-18 19:46:49.479 DefconOne[62040:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:46:49.497 DefconOne[62040:70b] [CDVTimer][keyboard] 0.083983ms
+2014-07-18 19:46:49.498 DefconOne[62040:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:46:49.498 DefconOne[62040:70b] [CDVTimer][statusbar] 0.488043ms
+2014-07-18 19:46:49.499 DefconOne[62040:70b] [CDVTimer][TotalPluginStartup] 1.650035ms
+2014-07-18 19:46:49.624 DefconOne[62040:70b] Resetting plugins due to page load.
+2014-07-18 19:46:49.795 DefconOne[62040:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/95F2B3ED-0958-4A39-8409-FAB41F9B9879/DefconOne.app/www/index.html#/tab/settings
+2014-07-18 19:47:03.018 DefconOne[62040:70b] false
+2014-07-18 19:49:34.437 DefconOne[62501:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:49:34.446 DefconOne[62501:70b] Unlimited access to network resources
+2014-07-18 19:49:34.450 DefconOne[62501:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:49:34.468 DefconOne[62501:70b] [CDVTimer][keyboard] 0.091016ms
+2014-07-18 19:49:34.468 DefconOne[62501:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:49:34.469 DefconOne[62501:70b] [CDVTimer][statusbar] 0.440001ms
+2014-07-18 19:49:34.469 DefconOne[62501:70b] [CDVTimer][TotalPluginStartup] 1.536012ms
+2014-07-18 19:49:34.592 DefconOne[62501:70b] Resetting plugins due to page load.
+2014-07-18 19:49:34.821 DefconOne[62501:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/settings
+Terminating in response to SpringBoard's termination.
+2014-07-18 19:50:28.769 DefconOne[62928:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-18 19:50:28.779 DefconOne[62928:70b] Unlimited access to network resources
+2014-07-18 19:50:28.782 DefconOne[62928:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-18 19:50:28.809 DefconOne[62928:70b] [CDVTimer][keyboard] 0.095010ms
+2014-07-18 19:50:28.812 DefconOne[62928:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-18 19:50:28.812 DefconOne[62928:70b] [CDVTimer][statusbar] 0.476003ms
+2014-07-18 19:50:28.812 DefconOne[62928:70b] [CDVTimer][TotalPluginStartup] 3.975987ms
+2014-07-18 19:50:28.936 DefconOne[62928:70b] Resetting plugins due to page load.
+2014-07-18 19:50:29.119 DefconOne[62928:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/settings
+2014-07-21 15:18:57.208 DefconOne[68983:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:18:57.246 DefconOne[68983:70b] Unlimited access to network resources
+2014-07-21 15:18:57.256 DefconOne[68983:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:18:57.439 DefconOne[68983:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-21 15:18:57.439 DefconOne[68983:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:18:57.440 DefconOne[68983:70b] [CDVTimer][statusbar] 0.593007ms
+2014-07-21 15:18:57.440 DefconOne[68983:70b] [CDVTimer][TotalPluginStartup] 1.712024ms
+2014-07-21 15:18:57.646 DefconOne[68983:70b] Resetting plugins due to page load.
+2014-07-21 15:18:57.971 DefconOne[68983:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/settings
+2014-07-21 15:19:49.282 DefconOne[68983:70b] [{"name":"Test Smith","id":0}]
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:29:56.463 DefconOne[69436:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:29:56.473 DefconOne[69436:70b] Unlimited access to network resources
+2014-07-21 15:29:56.476 DefconOne[69436:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:29:56.494 DefconOne[69436:70b] [CDVTimer][keyboard] 0.086010ms
+2014-07-21 15:29:56.494 DefconOne[69436:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:29:56.495 DefconOne[69436:70b] [CDVTimer][statusbar] 0.384033ms
+2014-07-21 15:29:56.495 DefconOne[69436:70b] [CDVTimer][TotalPluginStartup] 1.356006ms
+2014-07-21 15:29:56.553 DefconOne[69436:70b] Resetting plugins due to page load.
+2014-07-21 15:29:56.733 DefconOne[69436:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/settings
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:30:17.413 DefconOne[69867:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:30:17.422 DefconOne[69867:70b] Unlimited access to network resources
+2014-07-21 15:30:17.426 DefconOne[69867:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:30:17.444 DefconOne[69867:70b] [CDVTimer][keyboard] 0.093997ms
+2014-07-21 15:30:17.445 DefconOne[69867:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:30:17.445 DefconOne[69867:70b] [CDVTimer][statusbar] 0.413954ms
+2014-07-21 15:30:17.446 DefconOne[69867:70b] [CDVTimer][TotalPluginStartup] 1.402974ms
+2014-07-21 15:30:17.555 DefconOne[69867:70b] Resetting plugins due to page load.
+2014-07-21 15:30:17.684 DefconOne[69867:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:33:29.832 DefconOne[70298:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:33:29.841 DefconOne[70298:70b] Unlimited access to network resources
+2014-07-21 15:33:29.845 DefconOne[70298:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:33:29.867 DefconOne[70298:70b] [CDVTimer][keyboard] 0.091970ms
+2014-07-21 15:33:29.867 DefconOne[70298:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:33:29.868 DefconOne[70298:70b] [CDVTimer][statusbar] 0.418961ms
+2014-07-21 15:33:29.868 DefconOne[70298:70b] [CDVTimer][TotalPluginStartup] 1.466990ms
+2014-07-21 15:33:29.995 DefconOne[70298:70b] Resetting plugins due to page load.
+2014-07-21 15:33:30.252 DefconOne[70298:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:36:46.863 DefconOne[70739:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:36:46.873 DefconOne[70739:70b] Unlimited access to network resources
+2014-07-21 15:36:46.879 DefconOne[70739:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:36:46.901 DefconOne[70739:70b] [CDVTimer][keyboard] 0.090957ms
+2014-07-21 15:36:46.901 DefconOne[70739:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:36:46.902 DefconOne[70739:70b] [CDVTimer][statusbar] 0.399053ms
+2014-07-21 15:36:46.902 DefconOne[70739:70b] [CDVTimer][TotalPluginStartup] 1.380026ms
+2014-07-21 15:36:47.039 DefconOne[70739:70b] Resetting plugins due to page load.
+2014-07-21 15:36:47.216 DefconOne[70739:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:39:10.569 DefconOne[71171:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:39:10.578 DefconOne[71171:70b] Unlimited access to network resources
+2014-07-21 15:39:10.583 DefconOne[71171:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:39:10.601 DefconOne[71171:70b] [CDVTimer][keyboard] 0.081003ms
+2014-07-21 15:39:10.602 DefconOne[71171:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:39:10.602 DefconOne[71171:70b] [CDVTimer][statusbar] 0.436962ms
+2014-07-21 15:39:10.603 DefconOne[71171:70b] [CDVTimer][TotalPluginStartup] 1.446962ms
+2014-07-21 15:39:10.751 DefconOne[71171:70b] Resetting plugins due to page load.
+2014-07-21 15:39:11.019 DefconOne[71171:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:43:09.197 DefconOne[71607:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:43:09.207 DefconOne[71607:70b] Unlimited access to network resources
+2014-07-21 15:43:09.210 DefconOne[71607:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:43:09.251 DefconOne[71607:70b] [CDVTimer][keyboard] 0.084996ms
+2014-07-21 15:43:09.251 DefconOne[71607:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:43:09.251 DefconOne[71607:70b] [CDVTimer][statusbar] 0.392973ms
+2014-07-21 15:43:09.252 DefconOne[71607:70b] [CDVTimer][TotalPluginStartup] 1.346946ms
+2014-07-21 15:43:09.357 DefconOne[71607:70b] Resetting plugins due to page load.
+2014-07-21 15:43:09.561 DefconOne[71607:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:47:38.629 DefconOne[72050:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:47:38.636 DefconOne[72050:70b] Unlimited access to network resources
+2014-07-21 15:47:38.639 DefconOne[72050:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:47:38.656 DefconOne[72050:70b] [CDVTimer][keyboard] 0.091016ms
+2014-07-21 15:47:38.657 DefconOne[72050:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:47:38.657 DefconOne[72050:70b] [CDVTimer][statusbar] 0.427008ms
+2014-07-21 15:47:38.658 DefconOne[72050:70b] [CDVTimer][TotalPluginStartup] 1.446962ms
+2014-07-21 15:47:38.769 DefconOne[72050:70b] Resetting plugins due to page load.
+2014-07-21 15:47:38.925 DefconOne[72050:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:50:23.642 DefconOne[72487:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:50:23.651 DefconOne[72487:70b] Unlimited access to network resources
+2014-07-21 15:50:23.654 DefconOne[72487:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:50:23.672 DefconOne[72487:70b] [CDVTimer][keyboard] 0.081956ms
+2014-07-21 15:50:23.673 DefconOne[72487:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:50:23.673 DefconOne[72487:70b] [CDVTimer][statusbar] 0.434041ms
+2014-07-21 15:50:23.673 DefconOne[72487:70b] [CDVTimer][TotalPluginStartup] 1.429021ms
+2014-07-21 15:50:23.787 DefconOne[72487:70b] Resetting plugins due to page load.
+2014-07-21 15:50:23.949 DefconOne[72487:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+Terminating in response to SpringBoard's termination.
+2014-07-21 15:56:59.416 DefconOne[72917:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:56:59.426 DefconOne[72917:70b] Unlimited access to network resources
+2014-07-21 15:56:59.428 DefconOne[72917:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:56:59.446 DefconOne[72917:70b] [CDVTimer][keyboard] 0.082970ms
+2014-07-21 15:56:59.447 DefconOne[72917:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:56:59.447 DefconOne[72917:70b] [CDVTimer][statusbar] 0.433981ms
+2014-07-21 15:56:59.448 DefconOne[72917:70b] [CDVTimer][TotalPluginStartup] 1.486003ms
+2014-07-21 15:56:59.589 DefconOne[72917:70b] Resetting plugins due to page load.
+2014-07-21 15:56:59.780 DefconOne[72917:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+2014-07-21 15:58:50.504 DefconOne[73352:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 15:58:50.514 DefconOne[73352:70b] Unlimited access to network resources
+2014-07-21 15:58:50.517 DefconOne[73352:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-21 15:58:50.535 DefconOne[73352:70b] [CDVTimer][keyboard] 0.090003ms
+2014-07-21 15:58:50.535 DefconOne[73352:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 15:58:50.536 DefconOne[73352:70b] [CDVTimer][statusbar] 0.402987ms
+2014-07-21 15:58:50.536 DefconOne[73352:70b] [CDVTimer][TotalPluginStartup] 1.382947ms
+2014-07-21 15:58:50.655 DefconOne[73352:70b] Resetting plugins due to page load.
+2014-07-21 15:58:50.822 DefconOne[73352:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+2014-07-24 17:18:33.140 DefconOne[81148:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:18:33.171 DefconOne[81148:70b] Unlimited access to network resources
+2014-07-24 17:18:33.178 DefconOne[81148:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:18:33.344 DefconOne[81148:70b] [CDVTimer][keyboard] 0.090003ms
+2014-07-24 17:18:33.344 DefconOne[81148:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:18:33.345 DefconOne[81148:70b] [CDVTimer][statusbar] 0.405014ms
+2014-07-24 17:18:33.345 DefconOne[81148:70b] [CDVTimer][TotalPluginStartup] 1.387954ms
+2014-07-24 17:18:33.541 DefconOne[81148:70b] Resetting plugins due to page load.
+2014-07-24 17:18:33.848 DefconOne[81148:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-24 17:19:49.357 DefconOne[81582:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:19:49.368 DefconOne[81582:70b] Unlimited access to network resources
+2014-07-24 17:19:49.371 DefconOne[81582:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:19:49.389 DefconOne[81582:70b] [CDVTimer][keyboard] 0.091016ms
+2014-07-24 17:19:49.389 DefconOne[81582:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:19:49.390 DefconOne[81582:70b] [CDVTimer][statusbar] 0.425041ms
+2014-07-24 17:19:49.390 DefconOne[81582:70b] [CDVTimer][TotalPluginStartup] 1.437962ms
+2014-07-24 17:19:49.498 DefconOne[81582:70b] Resetting plugins due to page load.
+2014-07-24 17:19:49.671 DefconOne[81582:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-24 17:26:02.688 DefconOne[82021:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:26:02.697 DefconOne[82021:70b] Unlimited access to network resources
+2014-07-24 17:26:02.700 DefconOne[82021:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:26:02.719 DefconOne[82021:70b] [CDVTimer][keyboard] 0.086010ms
+2014-07-24 17:26:02.719 DefconOne[82021:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:26:02.720 DefconOne[82021:70b] [CDVTimer][statusbar] 0.438988ms
+2014-07-24 17:26:02.720 DefconOne[82021:70b] [CDVTimer][TotalPluginStartup] 1.460016ms
+2014-07-24 17:26:02.829 DefconOne[82021:70b] Resetting plugins due to page load.
+2014-07-24 17:26:03.039 DefconOne[82021:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 17:29:03.376 DefconOne[82461:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:29:03.386 DefconOne[82461:70b] Unlimited access to network resources
+2014-07-24 17:29:03.389 DefconOne[82461:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:29:03.408 DefconOne[82461:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-24 17:29:03.408 DefconOne[82461:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:29:03.409 DefconOne[82461:70b] [CDVTimer][statusbar] 0.522017ms
+2014-07-24 17:29:03.409 DefconOne[82461:70b] [CDVTimer][TotalPluginStartup] 1.785040ms
+2014-07-24 17:29:03.524 DefconOne[82461:70b] Resetting plugins due to page load.
+2014-07-24 17:29:03.747 DefconOne[82461:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 17:30:42.484 DefconOne[82897:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:30:42.493 DefconOne[82897:70b] Unlimited access to network resources
+2014-07-24 17:30:42.496 DefconOne[82897:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:30:42.514 DefconOne[82897:70b] [CDVTimer][keyboard] 0.091016ms
+2014-07-24 17:30:42.515 DefconOne[82897:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:30:42.515 DefconOne[82897:70b] [CDVTimer][statusbar] 0.409007ms
+2014-07-24 17:30:42.515 DefconOne[82897:70b] [CDVTimer][TotalPluginStartup] 1.387000ms
+2014-07-24 17:30:42.625 DefconOne[82897:70b] Resetting plugins due to page load.
+2014-07-24 17:30:43.000 DefconOne[82897:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-24 17:32:23.822 DefconOne[83326:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:32:23.832 DefconOne[83326:70b] Unlimited access to network resources
+2014-07-24 17:32:23.835 DefconOne[83326:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:32:23.853 DefconOne[83326:70b] [CDVTimer][keyboard] 0.084996ms
+2014-07-24 17:32:23.853 DefconOne[83326:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:32:23.853 DefconOne[83326:70b] [CDVTimer][statusbar] 0.438988ms
+2014-07-24 17:32:23.854 DefconOne[83326:70b] [CDVTimer][TotalPluginStartup] 1.510978ms
+2014-07-24 17:32:23.976 DefconOne[83326:70b] Resetting plugins due to page load.
+2014-07-24 17:32:24.274 DefconOne[83326:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 17:32:28.554 DefconOne[83326:70b] [{"name":"Test Smith","id":0}]
+2014-07-24 17:34:09.583 DefconOne[83326:70b] [{"name":"Test Smith","id":0}]
+2014-07-24 17:36:32.700 DefconOne[83767:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:36:32.709 DefconOne[83767:70b] Unlimited access to network resources
+2014-07-24 17:36:32.712 DefconOne[83767:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:36:32.730 DefconOne[83767:70b] [CDVTimer][keyboard] 0.090003ms
+2014-07-24 17:36:32.731 DefconOne[83767:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:36:32.731 DefconOne[83767:70b] [CDVTimer][statusbar] 0.419974ms
+2014-07-24 17:36:32.732 DefconOne[83767:70b] [CDVTimer][TotalPluginStartup] 1.414001ms
+2014-07-24 17:36:32.841 DefconOne[83767:70b] Resetting plugins due to page load.
+2014-07-24 17:36:33.188 DefconOne[83767:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-24 17:37:48.546 DefconOne[84201:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:37:48.556 DefconOne[84201:70b] Unlimited access to network resources
+2014-07-24 17:37:48.559 DefconOne[84201:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:37:48.576 DefconOne[84201:70b] [CDVTimer][keyboard] 0.090003ms
+2014-07-24 17:37:48.577 DefconOne[84201:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:37:48.577 DefconOne[84201:70b] [CDVTimer][statusbar] 0.414014ms
+2014-07-24 17:37:48.578 DefconOne[84201:70b] [CDVTimer][TotalPluginStartup] 1.420975ms
+2014-07-24 17:37:48.687 DefconOne[84201:70b] Resetting plugins due to page load.
+2014-07-24 17:37:48.895 DefconOne[84201:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-24 17:40:00.173 DefconOne[84642:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:40:00.182 DefconOne[84642:70b] Unlimited access to network resources
+2014-07-24 17:40:00.186 DefconOne[84642:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:40:00.204 DefconOne[84642:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-24 17:40:00.205 DefconOne[84642:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:40:00.205 DefconOne[84642:70b] [CDVTimer][statusbar] 0.440001ms
+2014-07-24 17:40:00.206 DefconOne[84642:70b] [CDVTimer][TotalPluginStartup] 1.475036ms
+2014-07-24 17:40:00.334 DefconOne[84642:70b] Resetting plugins due to page load.
+2014-07-24 17:40:00.572 DefconOne[84642:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-24 17:41:41.061 DefconOne[85074:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:41:41.070 DefconOne[85074:70b] Unlimited access to network resources
+2014-07-24 17:41:41.075 DefconOne[85074:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 17:41:41.093 DefconOne[85074:70b] [CDVTimer][keyboard] 0.083983ms
+2014-07-24 17:41:41.093 DefconOne[85074:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:41:41.094 DefconOne[85074:70b] [CDVTimer][statusbar] 0.450015ms
+2014-07-24 17:41:41.094 DefconOne[85074:70b] [CDVTimer][TotalPluginStartup] 1.518965ms
+2014-07-24 17:41:41.208 DefconOne[85074:70b] Resetting plugins due to page load.
+2014-07-24 17:41:41.592 DefconOne[85074:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 18:47:16.112 DefconOne[85523:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 18:47:16.121 DefconOne[85523:70b] Unlimited access to network resources
+2014-07-24 18:47:16.124 DefconOne[85523:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 18:47:16.142 DefconOne[85523:70b] [CDVTimer][keyboard] 0.100017ms
+2014-07-24 18:47:16.143 DefconOne[85523:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 18:47:16.143 DefconOne[85523:70b] [CDVTimer][statusbar] 0.541985ms
+2014-07-24 18:47:16.144 DefconOne[85523:70b] [CDVTimer][TotalPluginStartup] 1.603961ms
+2014-07-24 18:47:16.249 DefconOne[85523:70b] Resetting plugins due to page load.
+2014-07-24 18:47:16.732 DefconOne[85523:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 18:51:36.393 DefconOne[85966:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 18:51:36.402 DefconOne[85966:70b] Unlimited access to network resources
+2014-07-24 18:51:36.406 DefconOne[85966:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 18:51:36.424 DefconOne[85966:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-24 18:51:36.425 DefconOne[85966:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 18:51:36.425 DefconOne[85966:70b] [CDVTimer][statusbar] 0.405014ms
+2014-07-24 18:51:36.425 DefconOne[85966:70b] [CDVTimer][TotalPluginStartup] 1.388013ms
+2014-07-24 18:51:36.547 DefconOne[85966:70b] Resetting plugins due to page load.
+2014-07-24 18:51:36.782 DefconOne[85966:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:15:50.290 DefconOne[86863:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:15:50.299 DefconOne[86863:70b] Unlimited access to network resources
+2014-07-24 19:15:50.302 DefconOne[86863:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:15:50.320 DefconOne[86863:70b] [CDVTimer][keyboard] 0.092030ms
+2014-07-24 19:15:50.320 DefconOne[86863:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:15:50.321 DefconOne[86863:70b] [CDVTimer][statusbar] 0.420034ms
+2014-07-24 19:15:50.321 DefconOne[86863:70b] [CDVTimer][TotalPluginStartup] 1.385987ms
+2014-07-24 19:15:50.432 DefconOne[86863:70b] Resetting plugins due to page load.
+2014-07-24 19:15:50.757 DefconOne[86863:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 19:20:58.919 DefconOne[87313:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:20:58.929 DefconOne[87313:70b] Unlimited access to network resources
+2014-07-24 19:20:58.932 DefconOne[87313:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:20:58.951 DefconOne[87313:70b] [CDVTimer][keyboard] 0.096977ms
+2014-07-24 19:20:58.952 DefconOne[87313:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:20:58.953 DefconOne[87313:70b] [CDVTimer][statusbar] 0.770986ms
+2014-07-24 19:20:58.953 DefconOne[87313:70b] [CDVTimer][TotalPluginStartup] 2.466977ms
+2014-07-24 19:20:59.072 DefconOne[87313:70b] Resetting plugins due to page load.
+2014-07-24 19:20:59.397 DefconOne[87313:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:23:25.860 DefconOne[87750:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:23:25.871 DefconOne[87750:70b] Unlimited access to network resources
+2014-07-24 19:23:25.874 DefconOne[87750:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:23:25.892 DefconOne[87750:70b] [CDVTimer][keyboard] 0.086010ms
+2014-07-24 19:23:25.892 DefconOne[87750:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:23:25.893 DefconOne[87750:70b] [CDVTimer][statusbar] 0.424981ms
+2014-07-24 19:23:25.893 DefconOne[87750:70b] [CDVTimer][TotalPluginStartup] 1.396954ms
+2014-07-24 19:23:25.948 DefconOne[87750:70b] Resetting plugins due to page load.
+2014-07-24 19:23:26.343 DefconOne[87750:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 19:25:18.421 DefconOne[88185:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:25:18.430 DefconOne[88185:70b] Unlimited access to network resources
+2014-07-24 19:25:18.433 DefconOne[88185:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:25:18.453 DefconOne[88185:70b] [CDVTimer][keyboard] 0.091970ms
+2014-07-24 19:25:18.454 DefconOne[88185:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:25:18.454 DefconOne[88185:70b] [CDVTimer][statusbar] 0.425994ms
+2014-07-24 19:25:18.454 DefconOne[88185:70b] [CDVTimer][TotalPluginStartup] 1.425028ms
+2014-07-24 19:25:18.569 DefconOne[88185:70b] Resetting plugins due to page load.
+2014-07-24 19:25:18.937 DefconOne[88185:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 19:26:38.522 DefconOne[88185:70b] false
+2014-07-24 19:31:47.525 DefconOne[88638:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:31:47.535 DefconOne[88638:70b] Unlimited access to network resources
+2014-07-24 19:31:47.538 DefconOne[88638:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:31:47.556 DefconOne[88638:70b] [CDVTimer][keyboard] 0.088036ms
+2014-07-24 19:31:47.557 DefconOne[88638:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:31:47.557 DefconOne[88638:70b] [CDVTimer][statusbar] 0.416994ms
+2014-07-24 19:31:47.558 DefconOne[88638:70b] [CDVTimer][TotalPluginStartup] 1.433969ms
+2014-07-24 19:31:47.669 DefconOne[88638:70b] Resetting plugins due to page load.
+2014-07-24 19:31:48.065 DefconOne[88638:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 19:31:49.355 DefconOne[88638:70b] false
+2014-07-24 19:32:21.753 DefconOne[89068:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:32:21.763 DefconOne[89068:70b] Unlimited access to network resources
+2014-07-24 19:32:21.767 DefconOne[89068:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:32:21.785 DefconOne[89068:70b] [CDVTimer][keyboard] 0.093997ms
+2014-07-24 19:32:21.786 DefconOne[89068:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:32:21.787 DefconOne[89068:70b] [CDVTimer][statusbar] 0.449955ms
+2014-07-24 19:32:21.787 DefconOne[89068:70b] [CDVTimer][TotalPluginStartup] 1.691997ms
+2014-07-24 19:32:21.899 DefconOne[89068:70b] Resetting plugins due to page load.
+2014-07-24 19:32:22.305 DefconOne[89068:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/
+2014-07-24 19:33:31.836 DefconOne[89068:70b] false
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:33:51.813 DefconOne[89495:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:33:51.823 DefconOne[89495:70b] Unlimited access to network resources
+2014-07-24 19:33:51.827 DefconOne[89495:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:33:51.847 DefconOne[89495:70b] [CDVTimer][keyboard] 0.087976ms
+2014-07-24 19:33:51.848 DefconOne[89495:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:33:51.848 DefconOne[89495:70b] [CDVTimer][statusbar] 0.411034ms
+2014-07-24 19:33:51.849 DefconOne[89495:70b] [CDVTimer][TotalPluginStartup] 1.581013ms
+2014-07-24 19:33:51.973 DefconOne[89495:70b] Resetting plugins due to page load.
+2014-07-24 19:33:52.342 DefconOne[89495:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab-alert
+2014-07-24 19:34:28.725 DefconOne[89965:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:34:28.734 DefconOne[89965:70b] Unlimited access to network resources
+2014-07-24 19:34:28.738 DefconOne[89965:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:34:28.756 DefconOne[89965:70b] [CDVTimer][keyboard] 0.082970ms
+2014-07-24 19:34:28.756 DefconOne[89965:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:34:28.757 DefconOne[89965:70b] [CDVTimer][statusbar] 0.522017ms
+2014-07-24 19:34:28.757 DefconOne[89965:70b] [CDVTimer][TotalPluginStartup] 1.659989ms
+2014-07-24 19:34:28.879 DefconOne[89965:70b] Resetting plugins due to page load.
+2014-07-24 19:34:29.112 DefconOne[89965:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab-alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:35:03.728 DefconOne[90393:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:35:03.738 DefconOne[90393:70b] Unlimited access to network resources
+2014-07-24 19:35:03.741 DefconOne[90393:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:35:03.761 DefconOne[90393:70b] [CDVTimer][keyboard] 0.100017ms
+2014-07-24 19:35:03.761 DefconOne[90393:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:35:03.762 DefconOne[90393:70b] [CDVTimer][statusbar] 0.432968ms
+2014-07-24 19:35:03.762 DefconOne[90393:70b] [CDVTimer][TotalPluginStartup] 1.513004ms
+2014-07-24 19:35:03.882 DefconOne[90393:70b] Resetting plugins due to page load.
+2014-07-24 19:35:04.152 DefconOne[90393:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/alert
+2014-07-24 19:35:42.348 DefconOne[90819:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:35:42.357 DefconOne[90819:70b] Unlimited access to network resources
+2014-07-24 19:35:42.360 DefconOne[90819:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:35:42.379 DefconOne[90819:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-24 19:35:42.380 DefconOne[90819:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:35:42.380 DefconOne[90819:70b] [CDVTimer][statusbar] 0.393987ms
+2014-07-24 19:35:42.381 DefconOne[90819:70b] [CDVTimer][TotalPluginStartup] 1.355946ms
+2014-07-24 19:35:42.488 DefconOne[90819:70b] Resetting plugins due to page load.
+2014-07-24 19:35:42.691 DefconOne[90819:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:38:55.465 DefconOne[91266:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:38:55.474 DefconOne[91266:70b] Unlimited access to network resources
+2014-07-24 19:38:55.479 DefconOne[91266:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:38:55.505 DefconOne[91266:70b] [CDVTimer][keyboard] 0.092983ms
+2014-07-24 19:38:55.505 DefconOne[91266:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:38:55.505 DefconOne[91266:70b] [CDVTimer][statusbar] 0.426054ms
+2014-07-24 19:38:55.506 DefconOne[91266:70b] [CDVTimer][TotalPluginStartup] 1.523018ms
+2014-07-24 19:38:55.617 DefconOne[91266:70b] Resetting plugins due to page load.
+2014-07-24 19:38:55.953 DefconOne[91266:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 19:39:45.089 DefconOne[91266:70b] [{"name":"Test Smith","id":0}]
+2014-07-24 19:44:09.175 DefconOne[91714:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:44:09.185 DefconOne[91714:70b] Unlimited access to network resources
+2014-07-24 19:44:09.188 DefconOne[91714:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:44:09.209 DefconOne[91714:70b] [CDVTimer][keyboard] 0.083029ms
+2014-07-24 19:44:09.209 DefconOne[91714:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:44:09.210 DefconOne[91714:70b] [CDVTimer][statusbar] 0.514984ms
+2014-07-24 19:44:09.210 DefconOne[91714:70b] [CDVTimer][TotalPluginStartup] 1.716018ms
+2014-07-24 19:44:09.318 DefconOne[91714:70b] Resetting plugins due to page load.
+2014-07-24 19:44:09.618 DefconOne[91714:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 19:46:51.497 DefconOne[92214:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:46:51.506 DefconOne[92214:70b] Unlimited access to network resources
+2014-07-24 19:46:51.509 DefconOne[92214:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:46:51.524 DefconOne[92214:70b] [CDVTimer][keyboard] 0.084996ms
+2014-07-24 19:46:51.525 DefconOne[92214:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:46:51.525 DefconOne[92214:70b] [CDVTimer][statusbar] 0.364006ms
+2014-07-24 19:46:51.525 DefconOne[92214:70b] [CDVTimer][TotalPluginStartup] 1.289964ms
+2014-07-24 19:46:51.617 DefconOne[92214:70b] Resetting plugins due to page load.
+2014-07-24 19:46:51.871 DefconOne[92214:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:49:11.313 DefconOne[92645:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:49:11.322 DefconOne[92645:70b] Unlimited access to network resources
+2014-07-24 19:49:11.325 DefconOne[92645:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:49:11.343 DefconOne[92645:70b] [CDVTimer][keyboard] 0.094950ms
+2014-07-24 19:49:11.344 DefconOne[92645:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:49:11.345 DefconOne[92645:70b] [CDVTimer][statusbar] 0.473976ms
+2014-07-24 19:49:11.345 DefconOne[92645:70b] [CDVTimer][TotalPluginStartup] 2.170026ms
+2014-07-24 19:49:11.473 DefconOne[92645:70b] Resetting plugins due to page load.
+2014-07-24 19:49:11.894 DefconOne[92645:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 19:50:30.226 DefconOne[92645:70b] [{"name":"Test Smith","id":0}]
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:51:10.326 DefconOne[93080:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:51:10.336 DefconOne[93080:70b] Unlimited access to network resources
+2014-07-24 19:51:10.342 DefconOne[93080:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:51:10.360 DefconOne[93080:70b] [CDVTimer][keyboard] 0.091016ms
+2014-07-24 19:51:10.361 DefconOne[93080:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:51:10.361 DefconOne[93080:70b] [CDVTimer][statusbar] 0.450969ms
+2014-07-24 19:51:10.362 DefconOne[93080:70b] [CDVTimer][TotalPluginStartup] 1.617014ms
+2014-07-24 19:51:10.411 DefconOne[93080:70b] Resetting plugins due to page load.
+2014-07-24 19:51:10.946 DefconOne[93080:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 19:56:28.317 DefconOne[93520:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:56:28.335 DefconOne[93520:70b] Unlimited access to network resources
+2014-07-24 19:56:28.636 DefconOne[93520:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:56:28.657 DefconOne[93520:70b] [CDVTimer][keyboard] 0.082016ms
+2014-07-24 19:56:28.658 DefconOne[93520:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:56:28.658 DefconOne[93520:70b] [CDVTimer][statusbar] 0.407994ms
+2014-07-24 19:56:28.658 DefconOne[93520:70b] [CDVTimer][TotalPluginStartup] 1.397014ms
+2014-07-24 19:56:28.824 DefconOne[93520:70b] Resetting plugins due to page load.
+2014-07-24 19:56:29.412 DefconOne[93520:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:57:33.933 DefconOne[93953:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:57:33.943 DefconOne[93953:70b] Unlimited access to network resources
+2014-07-24 19:57:33.946 DefconOne[93953:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:57:33.965 DefconOne[93953:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-24 19:57:33.966 DefconOne[93953:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:57:33.967 DefconOne[93953:70b] [CDVTimer][statusbar] 0.495017ms
+2014-07-24 19:57:33.967 DefconOne[93953:70b] [CDVTimer][TotalPluginStartup] 1.655996ms
+2014-07-24 19:57:34.077 DefconOne[93953:70b] Resetting plugins due to page load.
+2014-07-24 19:57:34.352 DefconOne[93953:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 19:57:38.958 DefconOne[93953:70b] hi
+2014-07-24 19:57:40.160 DefconOne[93953:70b] hi
+2014-07-24 19:57:40.424 DefconOne[93953:70b] hi
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:58:08.815 DefconOne[94380:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:58:08.824 DefconOne[94380:70b] Unlimited access to network resources
+2014-07-24 19:58:08.827 DefconOne[94380:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:58:08.845 DefconOne[94380:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-24 19:58:08.845 DefconOne[94380:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:58:08.846 DefconOne[94380:70b] [CDVTimer][statusbar] 0.418007ms
+2014-07-24 19:58:08.846 DefconOne[94380:70b] [CDVTimer][TotalPluginStartup] 1.424968ms
+2014-07-24 19:58:08.962 DefconOne[94380:70b] Resetting plugins due to page load.
+2014-07-24 19:58:09.259 DefconOne[94380:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 19:58:17.682 DefconOne[94380:70b] hi
+2014-07-24 19:58:20.261 DefconOne[94380:70b] hi
+2014-07-24 19:58:28.942 DefconOne[94380:70b] hi
+2014-07-24 19:58:31.893 DefconOne[94380:70b] hi
+2014-07-24 19:59:17.709 DefconOne[94807:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:59:17.718 DefconOne[94807:70b] Unlimited access to network resources
+2014-07-24 19:59:17.722 DefconOne[94807:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:59:17.740 DefconOne[94807:70b] [CDVTimer][keyboard] 0.101984ms
+2014-07-24 19:59:17.741 DefconOne[94807:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:59:17.741 DefconOne[94807:70b] [CDVTimer][statusbar] 0.483036ms
+2014-07-24 19:59:17.742 DefconOne[94807:70b] [CDVTimer][TotalPluginStartup] 1.625001ms
+2014-07-24 19:59:17.851 DefconOne[94807:70b] Resetting plugins due to page load.
+2014-07-24 19:59:18.157 DefconOne[94807:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 19:59:19.656 DefconOne[94807:70b] hi
+Terminating in response to SpringBoard's termination.
+2014-07-24 19:59:49.087 DefconOne[95239:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 19:59:49.102 DefconOne[95239:70b] Unlimited access to network resources
+2014-07-24 19:59:49.114 DefconOne[95239:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 19:59:49.147 DefconOne[95239:70b] [CDVTimer][keyboard] 0.223994ms
+2014-07-24 19:59:49.148 DefconOne[95239:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 19:59:49.149 DefconOne[95239:70b] [CDVTimer][statusbar] 0.703990ms
+2014-07-24 19:59:49.149 DefconOne[95239:70b] [CDVTimer][TotalPluginStartup] 2.579033ms
+2014-07-24 19:59:49.334 DefconOne[95239:70b] Resetting plugins due to page load.
+2014-07-24 19:59:49.590 DefconOne[95239:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 20:00:05.224 DefconOne[95239:70b] hi
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:01:28.730 DefconOne[95668:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:01:28.740 DefconOne[95668:70b] Unlimited access to network resources
+2014-07-24 20:01:28.744 DefconOne[95668:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:01:28.762 DefconOne[95668:70b] [CDVTimer][keyboard] 0.243008ms
+2014-07-24 20:01:28.762 DefconOne[95668:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:01:28.763 DefconOne[95668:70b] [CDVTimer][statusbar] 0.411987ms
+2014-07-24 20:01:28.763 DefconOne[95668:70b] [CDVTimer][TotalPluginStartup] 1.608014ms
+2014-07-24 20:01:28.873 DefconOne[95668:70b] Resetting plugins due to page load.
+2014-07-24 20:01:29.119 DefconOne[95668:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 20:01:42.490 DefconOne[95668:70b] hi
+2014-07-24 20:01:57.600 DefconOne[95668:70b] hi
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:05:45.410 DefconOne[96104:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:05:45.419 DefconOne[96104:70b] Unlimited access to network resources
+2014-07-24 20:05:45.428 DefconOne[96104:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:05:45.456 DefconOne[96104:70b] [CDVTimer][keyboard] 0.103951ms
+2014-07-24 20:05:45.457 DefconOne[96104:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:05:45.457 DefconOne[96104:70b] [CDVTimer][statusbar] 0.442982ms
+2014-07-24 20:05:45.458 DefconOne[96104:70b] [CDVTimer][TotalPluginStartup] 1.546025ms
+2014-07-24 20:05:45.624 DefconOne[96104:70b] Resetting plugins due to page load.
+2014-07-24 20:05:46.070 DefconOne[96104:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 20:05:58.476 DefconOne[96104:70b] hi
+2014-07-24 20:07:35.646 DefconOne[96537:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:07:35.655 DefconOne[96537:70b] Unlimited access to network resources
+2014-07-24 20:07:35.659 DefconOne[96537:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:07:35.678 DefconOne[96537:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-24 20:07:35.679 DefconOne[96537:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:07:35.680 DefconOne[96537:70b] [CDVTimer][statusbar] 0.577033ms
+2014-07-24 20:07:35.680 DefconOne[96537:70b] [CDVTimer][TotalPluginStartup] 1.637042ms
+2014-07-24 20:07:35.790 DefconOne[96537:70b] Resetting plugins due to page load.
+2014-07-24 20:07:36.143 DefconOne[96537:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 20:07:40.193 DefconOne[96537:70b] hi
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:14:33.109 DefconOne[96988:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:14:33.119 DefconOne[96988:70b] Unlimited access to network resources
+2014-07-24 20:14:33.121 DefconOne[96988:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:14:33.139 DefconOne[96988:70b] [CDVTimer][keyboard] 0.086963ms
+2014-07-24 20:14:33.139 DefconOne[96988:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:14:33.140 DefconOne[96988:70b] [CDVTimer][statusbar] 0.428975ms
+2014-07-24 20:14:33.140 DefconOne[96988:70b] [CDVTimer][TotalPluginStartup] 1.457036ms
+2014-07-24 20:14:33.188 DefconOne[96988:70b] Resetting plugins due to page load.
+2014-07-24 20:14:33.553 DefconOne[96988:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 20:14:44.111 DefconOne[96988:70b] [{"name":"Test Smith","id":0}]
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:15:36.433 DefconOne[97416:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:15:36.443 DefconOne[97416:70b] Unlimited access to network resources
+2014-07-24 20:15:36.448 DefconOne[97416:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:15:36.467 DefconOne[97416:70b] [CDVTimer][keyboard] 0.087976ms
+2014-07-24 20:15:36.468 DefconOne[97416:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:15:36.468 DefconOne[97416:70b] [CDVTimer][statusbar] 0.554025ms
+2014-07-24 20:15:36.469 DefconOne[97416:70b] [CDVTimer][TotalPluginStartup] 1.706004ms
+2014-07-24 20:15:36.592 DefconOne[97416:70b] Resetting plugins due to page load.
+2014-07-24 20:15:37.011 DefconOne[97416:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 20:15:50.826 DefconOne[97416:70b] [{"name":"Test Smith","id":0}]
+2014-07-24 20:16:29.785 DefconOne[97416:70b] [{"name":"Test Smith","id":0}]
+2014-07-24 20:16:31.671 DefconOne[97416:70b] [{"name":"Test Smith","id":0}]
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:17:50.508 DefconOne[97853:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:17:50.520 DefconOne[97853:70b] Unlimited access to network resources
+2014-07-24 20:17:50.524 DefconOne[97853:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:17:50.559 DefconOne[97853:70b] [CDVTimer][keyboard] 0.093997ms
+2014-07-24 20:17:50.560 DefconOne[97853:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:17:50.561 DefconOne[97853:70b] [CDVTimer][statusbar] 1.248002ms
+2014-07-24 20:17:50.562 DefconOne[97853:70b] [CDVTimer][TotalPluginStartup] 3.776014ms
+2014-07-24 20:17:50.754 DefconOne[97853:70b] Resetting plugins due to page load.
+2014-07-24 20:17:51.387 DefconOne[97853:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 20:18:02.145 DefconOne[97853:70b] [{"name":"Test Smith","id":0}]
+2014-07-24 20:21:03.071 DefconOne[98297:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:21:03.080 DefconOne[98297:70b] Unlimited access to network resources
+2014-07-24 20:21:03.083 DefconOne[98297:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:21:03.101 DefconOne[98297:70b] [CDVTimer][keyboard] 0.086010ms
+2014-07-24 20:21:03.101 DefconOne[98297:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:21:03.102 DefconOne[98297:70b] [CDVTimer][statusbar] 0.401020ms
+2014-07-24 20:21:03.102 DefconOne[98297:70b] [CDVTimer][TotalPluginStartup] 1.375020ms
+2014-07-24 20:21:03.222 DefconOne[98297:70b] Resetting plugins due to page load.
+2014-07-24 20:21:03.522 DefconOne[98297:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 20:23:36.195 DefconOne[98736:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:23:36.208 DefconOne[98736:70b] Unlimited access to network resources
+2014-07-24 20:23:36.216 DefconOne[98736:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:23:36.247 DefconOne[98736:70b] [CDVTimer][keyboard] 0.105023ms
+2014-07-24 20:23:36.248 DefconOne[98736:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:23:36.249 DefconOne[98736:70b] [CDVTimer][statusbar] 0.838995ms
+2014-07-24 20:23:36.249 DefconOne[98736:70b] [CDVTimer][TotalPluginStartup] 2.196014ms
+2014-07-24 20:23:36.393 DefconOne[98736:70b] Resetting plugins due to page load.
+2014-07-24 20:23:36.731 DefconOne[98736:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:25:12.262 DefconOne[99167:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:25:12.273 DefconOne[99167:70b] Unlimited access to network resources
+2014-07-24 20:25:12.276 DefconOne[99167:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:25:12.295 DefconOne[99167:70b] [CDVTimer][keyboard] 0.095963ms
+2014-07-24 20:25:12.295 DefconOne[99167:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:25:12.296 DefconOne[99167:70b] [CDVTimer][statusbar] 0.411987ms
+2014-07-24 20:25:12.296 DefconOne[99167:70b] [CDVTimer][TotalPluginStartup] 1.426995ms
+2014-07-24 20:25:12.414 DefconOne[99167:70b] Resetting plugins due to page load.
+2014-07-24 20:25:12.646 DefconOne[99167:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+2014-07-24 20:27:58.840 DefconOne[99606:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:27:58.851 DefconOne[99606:70b] Unlimited access to network resources
+2014-07-24 20:27:58.854 DefconOne[99606:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:27:58.872 DefconOne[99606:70b] [CDVTimer][keyboard] 0.084043ms
+2014-07-24 20:27:58.872 DefconOne[99606:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:27:58.873 DefconOne[99606:70b] [CDVTimer][statusbar] 0.434995ms
+2014-07-24 20:27:58.873 DefconOne[99606:70b] [CDVTimer][TotalPluginStartup] 1.411974ms
+2014-07-24 20:27:58.981 DefconOne[99606:70b] Resetting plugins due to page load.
+2014-07-24 20:27:59.327 DefconOne[99606:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:31:52.301 DefconOne[157:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:31:52.314 DefconOne[157:70b] Unlimited access to network resources
+2014-07-24 20:31:52.318 DefconOne[157:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:31:52.340 DefconOne[157:70b] [CDVTimer][keyboard] 0.095963ms
+2014-07-24 20:31:52.343 DefconOne[157:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:31:52.344 DefconOne[157:70b] [CDVTimer][statusbar] 1.061022ms
+2014-07-24 20:31:52.345 DefconOne[157:70b] [CDVTimer][TotalPluginStartup] 4.696012ms
+2014-07-24 20:31:52.496 DefconOne[157:70b] Resetting plugins due to page load.
+2014-07-24 20:31:53.006 DefconOne[157:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:34:14.161 DefconOne[672:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:34:14.170 DefconOne[672:70b] Unlimited access to network resources
+2014-07-24 20:34:14.174 DefconOne[672:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:34:14.192 DefconOne[672:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-24 20:34:14.193 DefconOne[672:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:34:14.193 DefconOne[672:70b] [CDVTimer][statusbar] 0.414014ms
+2014-07-24 20:34:14.194 DefconOne[672:70b] [CDVTimer][TotalPluginStartup] 1.430988ms
+2014-07-24 20:34:14.313 DefconOne[672:70b] Resetting plugins due to page load.
+2014-07-24 20:34:14.638 DefconOne[672:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:45:31.549 DefconOne[1126:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:45:31.558 DefconOne[1126:70b] Unlimited access to network resources
+2014-07-24 20:45:31.562 DefconOne[1126:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:45:31.580 DefconOne[1126:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-24 20:45:31.580 DefconOne[1126:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:45:31.581 DefconOne[1126:70b] [CDVTimer][statusbar] 0.456989ms
+2014-07-24 20:45:31.581 DefconOne[1126:70b] [CDVTimer][TotalPluginStartup] 1.505017ms
+2014-07-24 20:45:31.679 DefconOne[1126:70b] Resetting plugins due to page load.
+2014-07-24 20:45:31.975 DefconOne[1126:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:47:39.791 DefconOne[1565:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:47:39.802 DefconOne[1565:70b] Unlimited access to network resources
+2014-07-24 20:47:39.805 DefconOne[1565:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:47:39.831 DefconOne[1565:70b] [CDVTimer][keyboard] 0.138998ms
+2014-07-24 20:47:39.832 DefconOne[1565:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:47:39.834 DefconOne[1565:70b] [CDVTimer][statusbar] 1.668990ms
+2014-07-24 20:47:39.835 DefconOne[1565:70b] [CDVTimer][TotalPluginStartup] 3.850996ms
+2014-07-24 20:47:39.958 DefconOne[1565:70b] Resetting plugins due to page load.
+2014-07-24 20:47:40.152 DefconOne[1565:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:52:37.690 DefconOne[2084:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:52:37.699 DefconOne[2084:70b] Unlimited access to network resources
+2014-07-24 20:52:37.702 DefconOne[2084:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:52:37.719 DefconOne[2084:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-24 20:52:37.720 DefconOne[2084:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:52:37.720 DefconOne[2084:70b] [CDVTimer][statusbar] 0.410020ms
+2014-07-24 20:52:37.721 DefconOne[2084:70b] [CDVTimer][TotalPluginStartup] 1.425982ms
+2014-07-24 20:52:37.828 DefconOne[2084:70b] Resetting plugins due to page load.
+2014-07-24 20:52:37.990 DefconOne[2084:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 20:55:47.056 DefconOne[2525:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 20:55:47.065 DefconOne[2525:70b] Unlimited access to network resources
+2014-07-24 20:55:47.068 DefconOne[2525:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 20:55:47.086 DefconOne[2525:70b] [CDVTimer][keyboard] 0.087023ms
+2014-07-24 20:55:47.087 DefconOne[2525:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 20:55:47.087 DefconOne[2525:70b] [CDVTimer][statusbar] 0.398993ms
+2014-07-24 20:55:47.088 DefconOne[2525:70b] [CDVTimer][TotalPluginStartup] 1.407027ms
+2014-07-24 20:55:47.212 DefconOne[2525:70b] Resetting plugins due to page load.
+2014-07-24 20:55:47.385 DefconOne[2525:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+Terminating in response to SpringBoard's termination.
+2014-07-24 21:01:04.732 DefconOne[3009:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 21:01:04.741 DefconOne[3009:70b] Unlimited access to network resources
+2014-07-24 21:01:04.745 DefconOne[3009:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-24 21:01:04.764 DefconOne[3009:70b] [CDVTimer][keyboard] 0.083029ms
+2014-07-24 21:01:04.764 DefconOne[3009:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 21:01:04.765 DefconOne[3009:70b] [CDVTimer][statusbar] 0.402987ms
+2014-07-24 21:01:04.765 DefconOne[3009:70b] [CDVTimer][TotalPluginStartup] 1.389027ms
+2014-07-24 21:01:04.870 DefconOne[3009:70b] Resetting plugins due to page load.
+2014-07-24 21:01:05.056 DefconOne[3009:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-24 21:01:07.392 DefconOne[3009:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-24 21:01:27.613 DefconOne[3009:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-24 21:01:31.240 DefconOne[3009:70b] {"name":"Ben Bailey","email":"asdfa@asdf.com","phone":"5555555555"}
+Terminating in response to SpringBoard's termination.
+2014-07-26 13:31:01.782 DefconOne[7383:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-26 13:31:01.814 DefconOne[7383:70b] Unlimited access to network resources
+2014-07-26 13:31:01.818 DefconOne[7383:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-26 13:31:02.090 DefconOne[7383:70b] [CDVTimer][keyboard] 0.091016ms
+2014-07-26 13:31:02.090 DefconOne[7383:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-26 13:31:02.091 DefconOne[7383:70b] [CDVTimer][statusbar] 0.391006ms
+2014-07-26 13:31:02.091 DefconOne[7383:70b] [CDVTimer][TotalPluginStartup] 1.455009ms
+2014-07-26 13:31:02.290 DefconOne[7383:70b] Resetting plugins due to page load.
+2014-07-26 13:31:02.659 DefconOne[7383:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-26 13:32:24.034 DefconOne[7383:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-26 13:36:46.733 DefconOne[7383:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-26 13:36:48.904 DefconOne[7383:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-26 13:38:21.956 DefconOne[7383:70b] {"name":"Ben Bailey","email":"asdfa@asdf.com","phone":"5555555555"}
+2014-07-26 13:39:06.098 DefconOne[7383:70b] {"name":"Ben Bailey","email":"asdfa@asdf.com","phone":"5555555555"}
+Terminating in response to SpringBoard's termination.
+2014-07-26 13:40:20.869 DefconOne[7935:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-26 13:40:20.878 DefconOne[7935:70b] Unlimited access to network resources
+2014-07-26 13:40:20.881 DefconOne[7935:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-26 13:40:20.901 DefconOne[7935:70b] [CDVTimer][keyboard] 0.088990ms
+2014-07-26 13:40:20.901 DefconOne[7935:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-26 13:40:20.902 DefconOne[7935:70b] [CDVTimer][statusbar] 0.482976ms
+2014-07-26 13:40:20.902 DefconOne[7935:70b] [CDVTimer][TotalPluginStartup] 1.527011ms
+2014-07-26 13:40:21.018 DefconOne[7935:70b] Resetting plugins due to page load.
+2014-07-26 13:40:21.204 DefconOne[7935:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-26 13:41:14.478 DefconOne[7935:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-26 13:41:43.459 DefconOne[7935:70b] {"name":"Ben Bailey","email":"bennetalsjdk@g.com","phone":"2839289382"}
+2014-07-26 13:43:44.872 DefconOne[8385:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-26 13:43:44.881 DefconOne[8385:70b] Unlimited access to network resources
+2014-07-26 13:43:44.884 DefconOne[8385:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-26 13:43:44.903 DefconOne[8385:70b] [CDVTimer][keyboard] 0.131011ms
+2014-07-26 13:43:44.904 DefconOne[8385:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-26 13:43:44.904 DefconOne[8385:70b] [CDVTimer][statusbar] 0.706971ms
+2014-07-26 13:43:44.905 DefconOne[8385:70b] [CDVTimer][TotalPluginStartup] 2.034962ms
+2014-07-26 13:43:45.015 DefconOne[8385:70b] Resetting plugins due to page load.
+2014-07-26 13:43:45.180 DefconOne[8385:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/intro
+2014-07-26 13:44:31.389 DefconOne[8385:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-26 13:44:32.249 DefconOne[8385:70b] {"name":"Ben Bailey","email":"bennetalsjdk@g.com","phone":"2839289382"}
+Terminating in response to SpringBoard's termination.
+2014-07-26 13:50:14.817 DefconOne[8834:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-26 13:50:14.828 DefconOne[8834:70b] Unlimited access to network resources
+2014-07-26 13:50:14.887 DefconOne[8834:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-26 13:50:14.909 DefconOne[8834:70b] [CDVTimer][keyboard] 0.090957ms
+2014-07-26 13:50:14.909 DefconOne[8834:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-26 13:50:14.910 DefconOne[8834:70b] [CDVTimer][statusbar] 0.468969ms
+2014-07-26 13:50:14.910 DefconOne[8834:70b] [CDVTimer][TotalPluginStartup] 1.479030ms
+2014-07-26 13:50:15.025 DefconOne[8834:70b] Resetting plugins due to page load.
+2014-07-26 13:50:15.484 DefconOne[8834:70b] Finished load of: file:///Users/ben/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/062CF14E-5A67-41B3-95CC-172F5CDB8936/DefconOne.app/www/index.html#/tab/alert
+2014-07-26 13:51:02.505 DefconOne[8834:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-26 13:51:20.368 DefconOne[8834:70b] [{"name":"Ben Bailey","email":"bennettbailey@gmail.com","phone":"5125748333","id":0}]
+2014-07-26 13:51:22.984 DefconOne[8834:70b] {"name":"margot"}
+2014-07-26 14:08:28.963 DefconOne[8834:70b] {"name":"margot"}
+Terminating in response to SpringBoard's termination.

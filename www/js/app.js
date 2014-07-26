@@ -13,7 +13,6 @@ angular.module('d1', ['ionic', 'd1.controllers', 'd1.services'])
       cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
     }
     if(window.StatusBar) {
-      // org.apache.cordova.statusbar required
       StatusBar.styleDefault();
     }
   });
@@ -82,7 +81,14 @@ angular.module('d1', ['ionic', 'd1.controllers', 'd1.services'])
       }
     })
 
-  // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab/alert');
+  .state('intro', {
+    url: '/intro',
+    templateUrl: 'templates/intro.html',
+    controller: 'IntroCtrl'
+  })
 
+  $urlRouterProvider.otherwise('/tab/alert');
+  if(window.localStorage['intro'] == false || (window.localStorage['intro'] == undefined)){
+    $urlRouterProvider.otherwise('/intro');
+  }
 });
